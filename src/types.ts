@@ -23,12 +23,14 @@ export type AppFeed = {
     sourceId: string;
     title: string;
 
-    /** The description should support Markdown or a **very** limited form of HTML. */
+    /** The description should support Markdown or a **very** limited form of HTML/CSS. */
     description: string;
     startDate: Date;
     endDate: Date;
+
     pricing?: string;
     capacity?: string;
+
     location: {
         // TODO: Find better type names
         type: "in-person" | "virtual";
@@ -37,6 +39,8 @@ export type AppFeed = {
 
     /** Tags may be pulled from the calendar entry, manually input, or automatically assigned */
     tags: string[];
+
+    // TODO: Decide whether to cache images on BAM servers or always pull from upstream. Images will always be cached on-device.
     images: string[];
     url: string;
 
