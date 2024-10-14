@@ -1,0 +1,50 @@
+{
+    "name": "bam-generator",
+    "version": "1.0.0",
+    "private": true,
+    "description": "",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "lint": "eslint .",
+        "lint:fix": "eslint . --fix",
+        "lint:ts": "tsc --noEmit -p .",
+        "format": "prettier . --write",
+        "build": "rimraf ./dist && tsc",
+        "start": "rimraf ./dist && tsc && cd dist && node --experimental-loader=extensionless index.js",
+        "start:test": "rimraf ./dist && tsc && cd dist && node --experimental-loader=extensionless test.js",
+        "start:nobuild": "cd dist && node --experimental-loader=extensionless index.js",
+        "start:docker": "cd /app/dist && node --experimental-loader=extensionless index.js"
+    },
+    "author": {
+        "name": "H. Kamran",
+        "email": "hkamran@hkamran.com",
+        "url": "https://hkamran.com"
+    },
+    "license": "AGPLv3",
+    "dependencies": {
+        "dotenv": "^16.4.5",
+        "extensionless": "^1.9.9",
+        "ical.js": "^2.1.0",
+        "pino": "^9.4.0",
+        "pino-pretty": "^11.2.2"
+    },
+    "devDependencies": {
+        "@eslint/eslintrc": "^3.1.0",
+        "@eslint/js": "^9.11.1",
+        "@hkamran/eslint-config": "2.0.2",
+        "@hkamran/prettier-config": "^1.1.1",
+        "@types/eslint": "^9.6.1",
+        "@types/eslint__eslintrc": "^2.1.2",
+        "@types/eslint__js": "^8.42.3",
+        "@types/node": "^22.7.4",
+        "eslint": "^9.11.1",
+        "globals": "^15.10.0",
+        "prettier": "^3.3.3",
+        "rimraf": "^6.0.1",
+        "ts-node": "^10.9.2",
+        "typescript": "^5.6.2",
+        "typescript-eslint": "^8.8.0"
+    },
+    "prettier": "@hkamran/prettier-config"
+}

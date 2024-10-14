@@ -1,0 +1,1655 @@
+[
+    "vcalendar",
+    [
+        ["version", {}, "text", "2.0"],
+        ["prodid", {}, "text", "-//MCC East Bay - ECPv6.7.0//NONSGML v1.0//EN"],
+        ["calscale", {}, "text", "GREGORIAN"],
+        ["method", {}, "text", "PUBLISH"],
+        ["x-wr-calname", {}, "unknown", "MCC East Bay"],
+        ["x-original-url", {}, "unknown", "https://mcceastbay.org"],
+        ["x-wr-caldesc", {}, "unknown", "Events for MCC East Bay"],
+        ["refresh-interval", {}, "duration", "PT1H"],
+        ["x-robots-tag", {}, "unknown", "noindex"],
+        ["x-published-ttl", {}, "unknown", "PT1H"]
+    ],
+    [
+        [
+            "vtimezone",
+            [["tzid", {}, "text", "America/Los_Angeles"]],
+            [
+                [
+                    "daylight",
+                    [
+                        ["tzoffsetfrom", {}, "utc-offset", "-08:00"],
+                        ["tzoffsetto", {}, "utc-offset", "-07:00"],
+                        ["tzname", {}, "text", "PDT"],
+                        ["dtstart", {}, "date-time", "2024-03-10T10:00:00"]
+                    ],
+                    []
+                ],
+                [
+                    "standard",
+                    [
+                        ["tzoffsetfrom", {}, "utc-offset", "-07:00"],
+                        ["tzoffsetto", {}, "utc-offset", "-08:00"],
+                        ["tzname", {}, "text", "PST"],
+                        ["dtstart", {}, "date-time", "2024-11-03T09:00:00"]
+                    ],
+                    []
+                ]
+            ]
+        ],
+        [
+            "vevent",
+            [
+                [
+                    "dtstart",
+                    { "tzid": "America/Los_Angeles" },
+                    "date-time",
+                    "2024-10-13T08:00:00"
+                ],
+                [
+                    "dtend",
+                    { "tzid": "America/Los_Angeles" },
+                    "date-time",
+                    "2024-10-13T09:30:00"
+                ],
+                ["dtstamp", {}, "date-time", "2024-10-13T04:49:42"],
+                ["created", {}, "date-time", "2024-08-29T20:14:42Z"],
+                ["last-modified", {}, "date-time", "2024-10-02T19:10:20Z"],
+                [
+                    "uid",
+                    {},
+                    "text",
+                    "10021761-1728806400-1728811800@mcceastbay.org"
+                ],
+                [
+                    "summary",
+                    {},
+                    "text",
+                    "Women's Weekly Pilates Sessions | Seema Duhan"
+                ],
+                [
+                    "description",
+                    {},
+                    "text",
+                    "For Sisters Only: Join us for a transformative body and mind experience every Saturday and Sunday morning with a Professional Yoga and Pilates Instructor. Stretch your muscles, shape your body, and relax your mind. \nThe recommended age is 20+ for Pilates Classes. \nSat. (8:30 a.m. to 10 a.m.)  & Sun. (8 a.m. to 9:30 a.m.) | Weekly with a break in Ramadan ‘25 | Conference Room | Max 15 attendees per session | $15/session or $100/monthly | Register at mcceastbay.org/pilates \n  \nPilates Classes\nPilates is based on six principles: breath, concentration, center, control, precision, and flow. It is designed to transform muscles and bones while strengthening the core. Regular practice of Pilates not only reshapes the musculoskeletal system but also helps regulate emotions. This class is highly beneficial for individuals over the age of 20 years. Participants will learn how to control muscle movement and maintain poses while regulating their breathing. Regular Pilates practice increases muscle endurance against daily wear and tear and enhances flexibility. Starting age is 20 years. All props will be provided except the Yoga mat and foam roller. \nMCC has a standing policy that financial need should never hold a person back from attending any activity held in the community center. To request a financial waiver, please complete our financial waiver request: HTTP://mcceastbay.org/scholarship\n\nAbout the Instructor:\nSeema Duhan represented her university in athletics at the national level in India. A health enthusiast, she began learning yoga and Pilates a few years ago and, inspired by the transformation in her own body, decided to teach Pilates and stretching to fellow Muslim sisters to promote body awareness. Seema is currently pursuing her Pilates Instructor certification. \nQuestions? events@mcceastbay.org"
+                ],
+                [
+                    "url",
+                    {},
+                    "uri",
+                    "https://mcceastbay.org/event/womens-weekly-pilates/2024-10-13/"
+                ],
+                ["categories", {}, "text", "Women's Activities"],
+                [
+                    "attach",
+                    { "fmttype": "image/jpeg" },
+                    "uri",
+                    "https://mcceastbay.org/wp-content/uploads/2024/08/Pilates-Classes-FINAL.jpg"
+                ]
+            ],
+            []
+        ],
+        [
+            "vevent",
+            [
+                [
+                    "dtstart",
+                    { "tzid": "America/Los_Angeles" },
+                    "date-time",
+                    "2024-10-14T11:00:00"
+                ],
+                [
+                    "dtend",
+                    { "tzid": "America/Los_Angeles" },
+                    "date-time",
+                    "2024-10-14T12:30:00"
+                ],
+                ["dtstamp", {}, "date-time", "2024-10-13T04:49:42"],
+                ["created", {}, "date-time", "2024-04-11T23:53:17Z"],
+                ["last-modified", {}, "date-time", "2024-07-02T18:13:56Z"],
+                [
+                    "uid",
+                    {},
+                    "text",
+                    "10020744-1728903600-1728909000@mcceastbay.org"
+                ],
+                [
+                    "summary",
+                    {},
+                    "text",
+                    "Women’s Seerah Bookclub (in-person & virtual) | Ustadha Leila Fakira"
+                ],
+                [
+                    "description",
+                    {},
+                    "text",
+                    "Join our weekly sisters’ in-person & virtual Seerah book club, where we have an active discussion, take away lessons for our daily lives, and inshaAllah fall in love with the Prophet ﷺ. We are reading from “The Prophetic Narrative” by Samira al-Zayid and will begin reading Volume 2. \n\n\n\nEvery Monday in-person & virtual | 11 a.m. to 12:30 p.m. | MCC Conference Room | Women only | RSVP for the live registration link at https://mcceastbay.org/bookclub. RSVP is needed to join us virtually. \n\n\n\nEvent Details: \n\n\n\nThe in-person & virtual discussion takes place every Monday from 11 a.m. to 12:30 p.m. with a break in Ramadan ’24. \n\n\n\nPlease register online to receive the link to the Whatsapp thread where all communication and updates will be made. In this bookclub, we will be starting volume 2 of “The Prophetic Narrative” by Samira al-Zayid. \n\n\n\nBook Purchase: \n\n\n\nIf you wish to follow along with the book, please purchase the book. The book can be purchased here: \n\n\n\n– https://daybreak.rabata.org/products/soft-cover-a-compendium-of-the-sources-on-the-prophetic-narrative \n\n\n\nQuestions? bookclub@mcceastbay.org \n\n\n\nAbout the Book \n\n\n\nInternationally acclaimed as “the most authoritative resource” on the Sīra, this two-volume translation textbook is revolutionary in bringing Prophet Muhammad ﷺ’s life to life for everyone who ventures upon it. \n\n\n\nThis multiple award-winning, comprehensive compilation of narrations and details of the life of Prophet Muhammad (S) has never before been available in English until now! Internationally acclaimed as “the most authoritative resource” on the Sīra, this two-volume translation textbook is revolutionary in bringing his (S) life to life for everyone who ventures upon it. The original volumes have won the approval and praise of numerous scholars. It is finally available as a treasured text for personal or educational development. \n\n\n\nAuthor: Samira al-Zayid \n\n\n\nTranslators: Susan Imady, Tamara Gray, & Randa Mardini \n\n\n\nBinding: Softcover \n\n\n\nPages: Vol 1, 570; Vol 2, 558 \n\n\n\nPublisher: Daybreak Press \n\n\n\nQuestions? bookclub@mcceastbay.org \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n "
+                ],
+                [
+                    "url",
+                    {},
+                    "uri",
+                    "https://mcceastbay.org/event/inperson-seerah-bookclub/2024-10-14/"
+                ],
+                ["categories", {}, "text", "Women's Activities"],
+                [
+                    "attach",
+                    { "fmttype": "image/jpeg" },
+                    "uri",
+                    "https://mcceastbay.org/wp-content/uploads/2024/06/Monday-1-1.jpg"
+                ]
+            ],
+            []
+        ],
+        [
+            "vevent",
+            [
+                [
+                    "dtstart",
+                    { "tzid": "America/Los_Angeles" },
+                    "date-time",
+                    "2024-10-16T19:00:00"
+                ],
+                [
+                    "dtend",
+                    { "tzid": "America/Los_Angeles" },
+                    "date-time",
+                    "2024-10-16T20:00:00"
+                ],
+                ["dtstamp", {}, "date-time", "2024-10-13T04:49:42"],
+                ["created", {}, "date-time", "2024-06-27T01:07:48Z"],
+                ["last-modified", {}, "date-time", "2024-06-27T01:07:48Z"],
+                [
+                    "uid",
+                    {},
+                    "text",
+                    "10021152-1729105200-1729108800@mcceastbay.org"
+                ],
+                [
+                    "summary",
+                    {},
+                    "text",
+                    "Purification of the Heart: A Call for Inner Healing | Sidi Shahryar Abbasi"
+                ],
+                [
+                    "description",
+                    {},
+                    "text",
+                    "Wednesdays, Starts May 1 | 7 p.m. to 8 p.m. | Walnut Creek Islamic Center | Join in-person or watch live at mcceastbay.org/live \n\n\n\nJoin Sidi Shahryar Abbasi every Wednesday at 7 p.m. virtually to dive into the popular text Purification of the Heart by Shaykh Hamza Yusuf, where we will have an opportunity to go over the following: \n\n\n\n\nDelve into the heart’s role in personal governance\n\n\n\nExplore traditional Tazkiya practices for spiritual purification\n\n\n\nIdentify common spiritual diseases and learn specific remedies\n\n\n\nCultivate tranquility, wisdom, and patience, mirroring Prophetic (saw) qualities\n\n\n\nDevelop emotional resilience, enhance relationships, and navigate challenges with wisdom aligning with the Sunnah\n\n\n\n\nWe will also cover Imam Al-Ghazali’s Ihya Ulum Al-Din (The Revival of the Religious Sciences), books 20-22. \n\n\n\nHosted at Walnut Creek Islamic Center. Streamed on MCC media channels. Watch past sessions at https://mcceastbay.org/healing \n\n\n\n– More Sidi Shahryar: https://mcceastbay.org/shahryar– Sidi Shahryar’s “The Soul’s Journey” Series: https://mcceastbay.org/journey– Sidi Shahryar’s “Real Talk Series”: https://mcceastbay.org/real-talk– Sidi Shahryar’s “Traits of the Righteous” Series: https://mcceastbay.org/hallmark– Sidi Shahryar’s “Controlling Your Desires” Series: https://mcceastbay.org/desires– Sidi Shahryar’s “Soul’s Journey Series: https://mcceastbay.org/journey \n\n\n\nShahryar graduated from the UC Berkeley Haas School of Business and was the External Affairs Vice President of UC Berkeley’s student government. He is an experienced speaker, mentor, and coach. Send him questions at ask.abu.taha@gmail.com and learn more about him at https://www.tiktok.com/@islamic_spirituality. Learn more about him at The Success Company: https://www.successcompany.co/about-us"
+                ],
+                [
+                    "url",
+                    {},
+                    "uri",
+                    "https://mcceastbay.org/event/purification-of-the-heart-a-call-for-inner-healing-sidi-shahryar-abbasi-2/2024-10-16/"
+                ],
+                ["categories", {}, "text", "Family Events"],
+                [
+                    "attach",
+                    { "fmttype": "image/jpeg" },
+                    "uri",
+                    "https://mcceastbay.org/wp-content/uploads/2024/06/Purification-of-the-Heart.jpeg"
+                ]
+            ],
+            []
+        ],
+        [
+            "vevent",
+            [
+                [
+                    "dtstart",
+                    { "tzid": "America/Los_Angeles" },
+                    "date-time",
+                    "2024-10-17T10:00:00"
+                ],
+                [
+                    "dtend",
+                    { "tzid": "America/Los_Angeles" },
+                    "date-time",
+                    "2024-10-17T11:00:00"
+                ],
+                ["dtstamp", {}, "date-time", "2024-10-13T04:49:42"],
+                ["created", {}, "date-time", "2024-08-21T18:32:55Z"],
+                ["last-modified", {}, "date-time", "2024-08-29T19:40:18Z"],
+                [
+                    "uid",
+                    {},
+                    "text",
+                    "10021416-1729159200-1729162800@mcceastbay.org"
+                ],
+                [
+                    "summary",
+                    {},
+                    "text",
+                    "Mommy and Me September '24 Session | MCC's Mommy & Me Program"
+                ],
+                [
+                    "description",
+                    {},
+                    "text",
+                    "In this five-week fall session, our toddlers and pre-schoolers (ages 1-5) will develop love for Islam, Allah (swt), and RasulAllah (saw) through book reading, sing-alongs, Parachute Time, activities, and more! \nThursdays, 9/5, 9/12, 9/19, 9/26, 10/3, 10/17, 10/24, 10/31, 11/7, & 11/14 | 10 a.m. to 11 a.m. | Conference Room |  $70 for five sessions, $135 for 10 sessions or $20 per session | Register at mcceastbay.org/happyhearts \nPlease note that there will be no class on 10/10. \nThese Mommy & Me sessions are designed for girls and boys ages one to four who are accompanied by a female guardian. Moms, grandmothers, and so on are welcome. This is also a great opportunity to connect with other moms and caretakers in the MCC community. \nOur Mommy and Me sessions begin with dua and a salaam/greeting song and end with the Fi-Amanillah song and kid-favorite parachute time. \nQuestions? Happy Hearts Playgroup Facilitator Sr. Khadija at mommyandme@mcceastbay.org \nMCC has a standing policy that financial need should never hold a person back from attending any activity held in the community center. To request a financial waiver, please complete our financial waiver request: HTTP://mcceastbay.org/scholarship"
+                ],
+                [
+                    "url",
+                    {},
+                    "uri",
+                    "https://mcceastbay.org/event/mommy-and-me/2024-10-17/"
+                ],
+                ["categories", {}, "text", "Young Children"],
+                [
+                    "attach",
+                    { "fmttype": "image/jpeg" },
+                    "uri",
+                    "https://mcceastbay.org/wp-content/uploads/2024/08/Happy-Little-Hearts.jpg"
+                ]
+            ],
+            []
+        ],
+        [
+            "vevent",
+            [
+                [
+                    "dtstart",
+                    { "tzid": "America/Los_Angeles" },
+                    "date-time",
+                    "2024-10-17T12:30:00"
+                ],
+                [
+                    "dtend",
+                    { "tzid": "America/Los_Angeles" },
+                    "date-time",
+                    "2024-10-17T13:15:00"
+                ],
+                ["dtstamp", {}, "date-time", "2024-10-13T04:49:42"],
+                ["created", {}, "date-time", "2024-07-31T18:54:34Z"],
+                ["last-modified", {}, "date-time", "2024-08-13T17:54:51Z"],
+                [
+                    "uid",
+                    {},
+                    "text",
+                    "10021347-1729168200-1729170900@mcceastbay.org"
+                ],
+                [
+                    "summary",
+                    {},
+                    "text",
+                    "Principles of Religion: Manners III | Ustadha Nihad Hemmoudeh"
+                ],
+                [
+                    "description",
+                    {},
+                    "text",
+                    "Ustadha Nihad Hemmoudeh facilitates a 45-minute live Zoom session for sisters on the principles of religion, such as acts of worshipping Allah (swt), the good character of a Muslim, and more. These talks will be recorded and made publicly available on MCC’s YouTube, Facebook, and Instagram. \n\n\n\nUstadha Nihad is using the book, “The Forty in the Fundamentals of Religion” by Al-Ghazali. This is part three of the  “Principles of Religion” series, which will focus on praiseworthy characteristics. \n12:30 p.m. to 1:15 p.m. PST | Thursdays | 12 consecutive weeks from Aug. 15 to Oct. 31, 2024 | No pre-registration needed | Join live each week at 12:30 p.m. on Zoom at mcceastbay.org/principles \n\n\n\nWatch the prior sessions in this series: HTTP://mcceastbay.org/principle-series More Ustadha Nihad: \n\n\n\n\n– Ustadha Nihad’s “Principles of Religion” series: https://mcceastbay.org/principle-series\n\n\n\n– Ustadha Nihad’s “Women Around the Messenger” series: HTTP://mcceastbay.org/women-series\n\n\n\n– Ustadha Nihad’s “Forty Hadith Qudsi” series: https://mcceastbay.org/qudsi\n\n\n\n– Ustadha’s Nihad’s “Pearls of Islam: The Wives of Prophet Muhammad (PBUH)” series: https://mcceastbay.org/pearls-series\n\n\n\n– Ustadha Nihad’s Surah al-Kahf series: https://mcceastbay.org/kahf\n\n\n\n– Ustadha Nihad’s Juz Amma series: https://mcceastbay.org/quran-tafseer\n\n\n\n– Hafidha Nihad’s Sahaba (Companions) Series Sessions: https://mcceastbay.org/companions-series\n\n\n\n– Ust. Nohad’s Al-Nawawi Hadith Series: https://mcceastbay.org/nawawi\n\n\n\n– More Ustadha Nihad: https://mcceastbay.org/nihad\n\n\n\n\nQuestions? events@mcceastbay.org"
+                ],
+                [
+                    "url",
+                    {},
+                    "uri",
+                    "https://mcceastbay.org/event/principles-of-religion-3/2024-10-17/"
+                ],
+                [
+                    "categories",
+                    {},
+                    "text",
+                    "Sisters Program",
+                    "Women's Activities"
+                ],
+                [
+                    "attach",
+                    { "fmttype": "image/jpeg" },
+                    "uri",
+                    "https://mcceastbay.org/wp-content/uploads/2024/07/Principles-of-Religion-Part-3-1.jpg"
+                ],
+                ["location", {}, "text", ""]
+            ],
+            []
+        ],
+        [
+            "vevent",
+            [
+                [
+                    "dtstart",
+                    { "tzid": "America/Los_Angeles" },
+                    "date-time",
+                    "2024-10-18T13:30:00"
+                ],
+                [
+                    "dtend",
+                    { "tzid": "America/Los_Angeles" },
+                    "date-time",
+                    "2024-10-18T16:00:00"
+                ],
+                ["dtstamp", {}, "date-time", "2024-10-13T04:49:42"],
+                ["created", {}, "date-time", "2024-10-01T16:52:43Z"],
+                ["last-modified", {}, "date-time", "2024-10-06T15:14:02Z"],
+                [
+                    "uid",
+                    {},
+                    "text",
+                    "10021748-1729258200-1729267200@mcceastbay.org"
+                ],
+                [
+                    "summary",
+                    {},
+                    "text",
+                    "North American Bangladeshi Islamic Community (NABIC) Tables @ MCC Jumu'ahs"
+                ],
+                [
+                    "description",
+                    {},
+                    "text",
+                    "Since 1990, the North American Bangladeshi Islamic Community (NABIC) has worked to improve the living conditions of society’s most vulnerable and needy members through diverse projects in healthcare, education, and emergency relief. \nA response team is currently on the ground in Bangladesh, assisting in flood relief efforts and raising funds for relief efforts. Visit their table this Friday to learn how you can support their efforts."
+                ],
+                [
+                    "url",
+                    {},
+                    "uri",
+                    "https://mcceastbay.org/event/north-american-bangladeshi-islamic-community-nabic-tables-mcc-jumuahs/"
+                ],
+                ["categories", {}, "text", "Charity & Community Service"],
+                [
+                    "attach",
+                    { "fmttype": "image/jpeg" },
+                    "uri",
+                    "https://mcceastbay.org/wp-content/uploads/2024/10/nabic-banner.jpg"
+                ]
+            ],
+            []
+        ],
+        [
+            "vevent",
+            [
+                [
+                    "dtstart",
+                    { "tzid": "America/Los_Angeles" },
+                    "date-time",
+                    "2024-10-18T14:30:00"
+                ],
+                [
+                    "dtend",
+                    { "tzid": "America/Los_Angeles" },
+                    "date-time",
+                    "2024-10-18T17:00:00"
+                ],
+                ["dtstamp", {}, "date-time", "2024-10-13T04:49:42"],
+                ["created", {}, "date-time", "2024-09-11T16:41:27Z"],
+                ["last-modified", {}, "date-time", "2024-10-09T19:34:26Z"],
+                [
+                    "uid",
+                    {},
+                    "text",
+                    "10021777-1729261800-1729270800@mcceastbay.org"
+                ],
+                [
+                    "summary",
+                    {},
+                    "text",
+                    "Attorneys @ Jumu'ah: Free Legal Clinic"
+                ],
+                [
+                    "description",
+                    {},
+                    "text",
+                    "During the third and fourth Jumu’ah services at MCC, Legal Attorney Erum Choudhry will be providing a free fifteen-minute consultation in the following areas: \n\nIslamic Estate Planning\nImmigration: Family-based, employment-based, Citizenship\nBankruptcy: Chapters 7 and 13\n\n\nAppointments are required to receive a free consultation. No walk-ins will be allowed. Please sign up at mcceastbay.org/legal-clinic \nFriday, Sep. 20 | 2:30 p.m. to 5 p.m. | MCC Meeting Room | Appointment required (no walk-ins); RSVP at mcceastbay.org/legal-clinic  \nMCC will hold legal clinics on the following days: \n\n2024:\n\nOctober 18th\nNovember 15th\nDecember 20th\n\n\n2025:\n\nJanuary 17th, 2025\n\n\n\nQuestions? events@mcceastbay.org \n  \nErum Choudhry has more than ten years of legal experience. She graduated from Cornell Law School in 2002. She served as a senior attorney/associate with boutique law firms in Silicon Valley and well-established law firms in Northern California. She counsels clients ranging from individuals, families, and startups to Fortune 500 companies, major hospitals, and multinational corporations. \nShe is committed to helping each client with a personalized solution. She is well equipped with the tools like experience, staff, empathy, and compassion to help communities grapple with boom-bust challenges, whether immigration, bankruptcy, or estate planning matters. She picked these areas of practice because these areas of law allow her to understand her clients, serve the community, and help them enjoy a stress-free life. \nShe enjoys interacting with her clients and audience. She is a frequent speaker at local community and youth events. She provides pro bono services to underprivileged members of our community and works with local nonprofit organizations to help immigrants."
+                ],
+                [
+                    "url",
+                    {},
+                    "uri",
+                    "https://mcceastbay.org/event/attorneys-at-jumuah/2024-10-18/"
+                ],
+                ["categories", {}, "text", "Community"],
+                [
+                    "attach",
+                    { "fmttype": "image/jpeg" },
+                    "uri",
+                    "https://mcceastbay.org/wp-content/uploads/2024/08/Attorneys-at-Jumuah.jpg"
+                ]
+            ],
+            []
+        ],
+        [
+            "vevent",
+            [
+                [
+                    "dtstart",
+                    { "tzid": "America/Los_Angeles" },
+                    "date-time",
+                    "2024-10-18T16:00:00"
+                ],
+                [
+                    "dtend",
+                    { "tzid": "America/Los_Angeles" },
+                    "date-time",
+                    "2024-10-18T19:00:00"
+                ],
+                ["dtstamp", {}, "date-time", "2024-10-13T04:49:42"],
+                ["created", {}, "date-time", "2024-10-10T16:51:46Z"],
+                ["last-modified", {}, "date-time", "2024-10-10T22:29:33Z"],
+                [
+                    "uid",
+                    {},
+                    "text",
+                    "10021781-1729267200-1729278000@mcceastbay.org"
+                ],
+                [
+                    "summary",
+                    {},
+                    "text",
+                    "Palestinian Plate Art Craft | Soul of My Soul Exhibit"
+                ],
+                [
+                    "description",
+                    {},
+                    "text",
+                    "For Boys & Girls Ages 13 to 18: After the youth Jumu’ah, join the Soul of My Soul Exhibit in creating a hand-painted decorative plate in the traditional style of Al Khalil (Hebron), Palestine.  \nIn addition to creating a beautiful keepsake for yourself, you will also learn about the personal experiences of Bay Area locals with the apartheid and occupation in the West Bank. Participants will have the unique opportunity to hear from a Palestinian teenager currently living in the West Bank to foster a better understanding of the situation. \n\nFriday, Oct. 18 | 4 p.m. to 7 p.m. | MCC Banquet Hall | $35/person | Ages 14-18 | Register at http://mcceastbay.org/art  \nThe event is capped at 20. Pizza is provided. \nCosponsored by Soul of My Soul Exhibit and MCC East Bay. \nQuestions? events@mcceastbay.org \nMCC has a standing policy that financial need should never hold a person back from attaining spiritual or educational knowledge within the four walls of the Muslim Community Center. For a financial waiver for this event, please email scholarship@mcceastbay.org.  \nEvent Schedule\n \n\n4:00 – 4:45 pm – Late lunch and introductions (teenage attendees will have a chance to discuss what they’ve witnessed this past year and its impact on them)\n4:45 – 5:15 pm – Start the craft by drawing out the plate art outline\n5:15 – 5:25 pm – Break for Asr\n5:25 – 6:15 pm – While attendees paint their plates, they will watch a short documentary about the apartheid in the West Bank and gain some insight into what it means to be a teenager living in occupied Palestine.\n6:15 – 7:00 pm – Level Up for Palestine: How to take your advocacy to the next level (with a break for maghrib)\n\nEvent attendees will not leave this event feeling depressed about the situation in Gaza but instead, feel empowered to work for their sisters and brothers in Palestine.  \nWe will facilitate discussions with our youth in a safe space, allowing them to voice their concerns and discover their strengths regarding what they can offer to the movement. \nAll profits will go directly to supporting Palestinians on the ground in Palestine (either Gaza or the West Bank).\n \nSoul of My Soul Exhibit promotes conversations about Palestine through arts and culture. You can learn more about the Soul of My Soul Exhibit at www.soulofmysoulexhibit.com"
+                ],
+                [
+                    "url",
+                    {},
+                    "uri",
+                    "https://mcceastbay.org/event/palestinian-plate-art-craft/"
+                ],
+                [
+                    "location",
+                    {},
+                    "text",
+                    "MCC East Bay, 5724 W Las Positas Blvd #300, Pleasanton, CA, 94588, United States"
+                ],
+                ["categories", {}, "text", "Youth Program"],
+                [
+                    "attach",
+                    { "fmttype": "image/jpeg" },
+                    "uri",
+                    "https://mcceastbay.org/wp-content/uploads/2024/10/Information-Session-Oakley-1-1.jpg"
+                ]
+            ],
+            []
+        ],
+        [
+            "vevent",
+            [
+                [
+                    "dtstart",
+                    { "tzid": "America/Los_Angeles" },
+                    "date-time",
+                    "2024-10-18T19:00:00"
+                ],
+                [
+                    "dtend",
+                    { "tzid": "America/Los_Angeles" },
+                    "date-time",
+                    "2024-10-18T21:00:00"
+                ],
+                ["dtstamp", {}, "date-time", "2024-10-13T04:49:42"],
+                ["created", {}, "date-time", "2024-08-12T20:20:16Z"],
+                ["last-modified", {}, "date-time", "2024-10-01T22:06:30Z"],
+                [
+                    "uid",
+                    {},
+                    "text",
+                    "10021373-1729278000-1729285200@mcceastbay.org"
+                ],
+                [
+                    "summary",
+                    {},
+                    "text",
+                    "Dr. Rania Awaad’s Weekly Friday Evening Halaqa"
+                ],
+                [
+                    "description",
+                    {},
+                    "text",
+                    "Ustadha Dr. Rania Awaad holds a weekly women’s gathering on Friday evenings to discuss navigating contemporary issues. This program runs in parallel to the Friday night girl’s halaqa. \n\n\n\n7 p.m. to 9 p.m. | Every Friday from September 20, 2024, to February 21, 2025, |  MCC Conference Room | Free; no registration or RSVP required to attend in person | To join virtually, register at https://mcceastbay.org/zoom \n\n\n\n\n\n\n– More Dr. Rania: https://mcceastbay.org/rania\n\n\n\n\n\n\n\n\n\n– Watch past Dr. Rania’s Friday Evening Halaqa recordings: https://mcceastbay.org/womens-halaqa\n\n\n\n\n\n\n\n\n\n– Join Dr. Rania’s WhatsUp group: https://chat.whatsapp.com/HlHmFFnGbwvCvLl6uGD1C4\n– Holiday Calendar: https://mcceastbay.org/rahmah-calendar\n\n\n\n\n\n\nThe Fall session runs from Friday, Sept. 20, 2024, to May 23, 2025, with no halaqas on Friday, November 29, December 27, March 7, 14, 21, 28, and April 4), and we restart from April 11, 2025 to May 23, 2025. See calendar. \n\n\n\nFree weekly babysitting is provided in Room 23. Facility map: https://mcceastbay.org/facility-map \n\n\n\nQuestions? events@mcceastbay.org \n\n\n\nThis halaqa is hosted parallel to our girls’ program in partnership with The Rahmah Foundation. \n\n\n\nUstadha Rania Awaad was raised in the U.S. and began her formal study of the traditional Islamic sciences when her parents permitted her to travel to Damascus, Syria, at 14. Her desire to continue studying the Deen resulted in multiple trips back to Damascus, interspersed between her high school, college, and medical studies. She was honored to receive Ijazah (authorization to teach) several branches of the Shari’ah sciences at the hands of many renowned scholars, including many female scholars. She has received Ijazah to teach Tajwid in the Hafs and Warsh recitations from the late eminent Syrian scholar Shaykh Abu Hassan al-Kurdi. In addition to completing several advanced texts of the Shafi’i madhhab, she is licensed to teach texts of Maliki fiqh, Adab, and Ihsan. Currently, Ustadha Rania teaches online and local classes for The Rahmah Foundation, Rabata. She is on the faculty of Zaytuna College, where she teaches courses in Shafi’i fiqh and women’s issues in fiqh and has helped develop and co-direct the Tajweed and Hifz program. \n\n\n\nUstadha Rania is also a medical doctor with a specialty in Psychiatry. She completed her Psychiatric residency and fellowship training at Stanford University, where she is currently on the faculty as a Clinical Instructor in the Stanford Psychiatry and Behavioral Sciences department. Her medical interests include addressing mental health care concerns in the Muslim community- particularly that of Muslim women and girls. She has been awarded grants from the NIMH (National Institute of Mental Health) to research this topic and has presented her findings at several medical conferences. Other ongoing endeavors include compiling manuscripts addressing female-related mental health and medical issues from a fiqh-oriented perspective. She is the Director of the Rahmah Foundation, a non-profit organization that teaches traditional Islamic knowledge to Muslim women and girls. In this capacity, she also heads the Murbbiyah Mentoring Program, which trains young women to teach and mentor Muslim girls and teens. Ustadha Rania is both a wife and a mother; she has been counseling and teaching women classes on Tajwid, Shafi’i Fiqh, Ihsan, marriage, and raising children since 1999. \n\n\n\nLearn more about Dr. Rania and her work at http://med.stanford.edu/psychiatry/research/MuslimMHLab.html \n\n\n\nEvery Friday evening, the MCC bustles with activity. MCC hosts four halaqas to increase God-consciousness for youth, women, and men. \n\n\n\nJoin Dr. Rania Awaad‘s women’s gathering on navigating contemporary issues from 7 p.m. to 9 p.m. This wide-ranging Muslimah halaqa is in the MCC Conference Room, and the first hour is live-streamed here (watch past sessions at https://mcceastbay.org/halaqa). This halaqa is organized in partnership with The Rahmah Foundation. \nQuestions? events@mcceastbay.org"
+                ],
+                [
+                    "url",
+                    {},
+                    "uri",
+                    "https://mcceastbay.org/event/weekly-halaqa/2024-10-18/"
+                ],
+                [
+                    "location",
+                    {},
+                    "text",
+                    "MCC East Bay, 5724 W Las Positas Blvd #300, Pleasanton, CA, 94588, United States"
+                ],
+                ["categories", {}, "text", "Sisters Program"],
+                [
+                    "attach",
+                    { "fmttype": "image/png" },
+                    "uri",
+                    "https://mcceastbay.org/wp-content/uploads/2024/06/Dr.-Rania-Awaads-Weekly-Friday-Evening-Halaqa.png"
+                ],
+                [
+                    "organizer",
+                    { "cn": "The Rahmah Foundation" },
+                    "cal-address",
+                    "MAILTO:mailbox@therahmahfoundation.org"
+                ]
+            ],
+            []
+        ],
+        [
+            "vevent",
+            [
+                [
+                    "dtstart",
+                    { "tzid": "America/Los_Angeles" },
+                    "date-time",
+                    "2024-10-18T19:00:00"
+                ],
+                [
+                    "dtend",
+                    { "tzid": "America/Los_Angeles" },
+                    "date-time",
+                    "2024-10-18T21:00:00"
+                ],
+                ["dtstamp", {}, "date-time", "2024-10-13T04:49:42"],
+                ["created", {}, "date-time", "2024-08-26T17:50:00Z"],
+                ["last-modified", {}, "date-time", "2024-09-30T22:41:13Z"],
+                [
+                    "uid",
+                    {},
+                    "text",
+                    "10021423-1729278000-1729285200@mcceastbay.org"
+                ],
+                [
+                    "summary",
+                    {},
+                    "text",
+                    "Boycat: The Next Generation of Ethical Shopping | Adil Abbuthalha (Founder of Boycat)"
+                ],
+                [
+                    "description",
+                    {},
+                    "text",
+                    "Join us for a fireside chat with the founder of Boycat.io, who was fired from his day job for building this revolutionary platform.   \nDiscover how Boycat divested $80 million from apartheid in just seven months and is now building towards empowering ethical shoppers around the globe. We’ll discuss how Boycat was formed, the viral growth, the contribution to the movement, and how you can be a part of this global change. \nFriday, Oct. 18 | 7 p.m. to 9 p.m. | MCC Prayer Hall | Join in-person or watch live at mcceastbay.org/live \nAdil Abbuthalha is the driving force behind Boycat, an innovative app designed to empower consumers to make ethical shopping choices, particularly in support of the Palestinian cause. Adil founded Boycat and leads its development, analytics, marketing, product management, and business development, demonstrating a profound commitment to technological innovation and social responsibility. \nAdil formerly led the data science team at LinkTree before being fired for building Boycat. His entrepreneurial journey began early, launching a tutoring business at 15, a clothing line at 16, and a media company at 18, where he successfully partnered with high-profile brands like Audi. At 19, after finishing his degree, he founded Stellato, a product management company, before joining Big Tech. \nQuestions? events@mcceastbay.org"
+                ],
+                ["url", {}, "uri", "https://mcceastbay.org/event/boycat/"],
+                ["categories", {}, "text", "Family Events"],
+                [
+                    "attach",
+                    { "fmttype": "image/jpeg" },
+                    "uri",
+                    "https://mcceastbay.org/wp-content/uploads/2024/08/Boycat.jpg"
+                ]
+            ],
+            []
+        ],
+        [
+            "vevent",
+            [
+                [
+                    "dtstart",
+                    { "tzid": "America/Los_Angeles" },
+                    "date-time",
+                    "2024-10-18T19:00:00"
+                ],
+                [
+                    "dtend",
+                    { "tzid": "America/Los_Angeles" },
+                    "date-time",
+                    "2024-10-18T21:00:00"
+                ],
+                ["dtstamp", {}, "date-time", "2024-10-13T04:49:42"],
+                ["created", {}, "date-time", "2024-09-12T22:30:42Z"],
+                ["last-modified", {}, "date-time", "2024-10-07T22:27:55Z"],
+                [
+                    "uid",
+                    {},
+                    "text",
+                    "10021635-1729278000-1729285200@mcceastbay.org"
+                ],
+                [
+                    "summary",
+                    {},
+                    "text",
+                    "Friday Night Boys High School Halaqa | Sidi Quran Hodge"
+                ],
+                [
+                    "description",
+                    {},
+                    "text",
+                    "Join MCC Youth Activities Facilitator Sidi Quran Hodge for weekly Friday evening basketball & halaqa sessions for teen high school boys from 9th through 12th grade. \nThese sessions aim to craft our next generation of confident, faithful Muslim men. These halaqas are for only teens ages 14-18—no younger boys. The sessions are capped at 30 teens. Once limited spots are full, please join the waitlist. \nPizza is included each week. The first hour is physical activities in the gym (basketball, flag football, or soccer), and the latter hour is a teen halaqa with Sidi Quran.  \n7 p.m. to 9 p.m. | Fridays | Sep. 20, 2024 to May 23, 2025 (with a break in Ramadan ‘25) | $400/person | Register at mcceastbay.org/boys  \nThe MCC has a standing policy that financial need should never hold a family in the East Bay from benefiting from any offering at the MCC facility. To request a financial waiver, please complete the application at mcceastbay.org/scholarship \nLocation of Friday evening sessions for high school boys in ‘24 and ‘25: \n\n\n\n\n\n– September 20, 2024, at MCC East Bay\n– September 27, 2024, at MCC East Bay\n– October 4, 2024, at Donlon Elementary in Pleasanton\n– October 11, 202, at Donlon Elementary in Pleasanton\n– October 18, 2024, at Donlon Elementary in Pleasanton\n– October 25, 2024, at Donlon Elementary in Pleasanton\n– November 1, 2024, at Donlon Elementary in Pleasanton\n– November 8, 2024, at Donlon Elementary in Pleasanton\n– November 15, 2024, at Donlon Elementary in Pleasanton\n– November 22, 2024, at Donlon Elementary in Pleasanton\n– November 29, 2024 (no session)\n– December 6, 2024, at Donlon Elementary in Pleasanton\n– December 13, 2024, at Fairlands Elementary School in Pleasanton\n– December 20, 2024, at Donlon Elementary in Pleasanton\n– December 27, 2024 (no session)\n– January 3, 2025, at MCC East Bay\n– January 10, 2025, location TBA\n– January 17, 2025, location TBA\n– January 24, 2025, location TBA\n– January 31, 2025, location TBA\n– February 7, 2025, location TBA\n– February 14, 2025, location TBA\n– February 21, 2025, location TBA (last session before Ramadan 2025)\n– February 28, 2025 (no session)\n– March 7, 2025 (no session)\n– March 14, 2025 (no session)\n– March 21, 2025 (no session)\n– March 28, 2025 (no session)\n– April 4, 2025, at MCC East Bay\n– April 11, 2025, location TBA\n– April 18, 2025, location TBA\n– April 25, 2025, location TBA\n– May 2, 2025, location TBA\n– May 9, 2025, location TBA\n– May 16, 2025, location TBA\n– May 23, 2025, location TBA\n\n\n\n\n\nAbout Sidi Quran \nQur’an Hodge is a Bay Area native. He began his Islamic education in 2019, studying Arabic at the Al Maqasid Seminary in Pennsylvania. Sidi Quran continued to Dar Al Mustafa, a Yemeni Islamic university in Tarim, Hadhramaut. At this Islamic seminary founded by Habib Umar bin Hafiz, Sidi Qur’an studied Ibtidaiyya, Hadith, Aqida, Seerah, Nahw, Quran Hifzdh, Kitaba, and Tafseer in classical Arabic.  \nSidi Quran has completed certificates in Taleef Collective’s Refining the Core and Zaytuna College’s Permaculture Program. He is passionate about creatively working on community issues, particularly the challenges Muslim youth face. He lives with his wife and child in Castro Valley. \n\n– More Quran Hodge: https://mcceastbay.org/quran-hodge"
+                ],
+                [
+                    "url",
+                    {},
+                    "uri",
+                    "https://mcceastbay.org/event/friday-boys-halaqa/2024-10-18/"
+                ],
+                ["categories", {}, "text", "Teen"],
+                [
+                    "attach",
+                    { "fmttype": "image/jpeg" },
+                    "uri",
+                    "https://mcceastbay.org/wp-content/uploads/2024/09/Friday-Night-Boys-Halaqa.jpg"
+                ],
+                [
+                    "organizer",
+                    { "cn": "Muslim Community Center - East Bay" },
+                    "cal-address",
+                    "MAILTO:events@mcceastbay.org"
+                ]
+            ],
+            []
+        ],
+        [
+            "vevent",
+            [
+                [
+                    "dtstart",
+                    { "tzid": "America/Los_Angeles" },
+                    "date-time",
+                    "2024-10-18T19:00:00"
+                ],
+                [
+                    "dtend",
+                    { "tzid": "America/Los_Angeles" },
+                    "date-time",
+                    "2024-10-18T21:00:00"
+                ],
+                ["dtstamp", {}, "date-time", "2024-10-13T04:49:42"],
+                ["created", {}, "date-time", "2024-09-30T21:36:18Z"],
+                ["last-modified", {}, "date-time", "2024-09-30T21:38:03Z"],
+                [
+                    "uid",
+                    {},
+                    "text",
+                    "10021693-1729278000-1729285200@mcceastbay.org"
+                ],
+                [
+                    "summary",
+                    {},
+                    "text",
+                    "Middle School Boys Halaqa & Hangout | Sidi Zeeshan Mukhtar & Sr. Fouzia Alam"
+                ],
+                [
+                    "description",
+                    {},
+                    "text",
+                    "For middle school boys aged 8-13: Join us over three Fridays in October for a Halaqa and hang-out session to help them make connections and bonds, form a brotherhood, and navigate school and social challenges as they grow into young men. \nThese sessions aim to craft our next generation of confident, faithful Muslim men. These Halaqas are for only ages 8-13—no younger boys. The sessions are capped at 30 teens. Once limited spots are full, please join the waitlist. \nPizza is included each week. \n7 p.m. to 9 p.m. | Fridays | 10/11, 10/18 & 10/25 | MCC Banquet Hall | $10/week | Register at mcceastbay.org/boys-hangout \nThe MCC has a standing policy that financial need should never hold a family in the East Bay from benefiting from any offering at the MCC facility. To request a financial waiver, please complete the application at mcceastbay.org/scholarship \nOur partner SRVIC also hosts a middle school boy’s halaqa in October on Oct 4 and October 11 with Sidi Hasseb Sadat: https://srvic.org/event/boys-pre-teen-halaqa-with-haseeb-sadat/ \nAbout the halaqa facilitators \nAzmat Zeeshan Mukhtar is a local father and mentor from our community who enjoys sports and kids. He will organize the activities and bring on some other dads to help volunteer and make this a rewarding activity for our young Muslim boys. Brother Zeeshan Mukhtar has previously led similar sessions at his son’s school, and in the past, he coached flag football for boys at MCC. \nSister Fouzia Alam, a mother of three boys, is collaborating to launch the Boys’ Halaqa. She has extensive experience and organized numerous Bay Area enrichment programs."
+                ],
+                [
+                    "url",
+                    {},
+                    "uri",
+                    "https://mcceastbay.org/event/halaqa-and-hangout/2024-10-18/"
+                ],
+                ["categories", {}, "text", "Youth Program"],
+                [
+                    "attach",
+                    { "fmttype": "image/jpeg" },
+                    "uri",
+                    "https://mcceastbay.org/wp-content/uploads/2024/09/Friday-Night-Boys-Halaqa-1.jpg"
+                ]
+            ],
+            []
+        ],
+        [
+            "vevent",
+            [
+                [
+                    "dtstart",
+                    { "tzid": "America/Los_Angeles" },
+                    "date-time",
+                    "2024-10-19T07:30:00"
+                ],
+                [
+                    "dtend",
+                    { "tzid": "America/Los_Angeles" },
+                    "date-time",
+                    "2024-10-19T11:30:00"
+                ],
+                ["dtstamp", {}, "date-time", "2024-10-13T04:49:42"],
+                ["created", {}, "date-time", "2024-10-09T18:54:43Z"],
+                ["last-modified", {}, "date-time", "2024-10-09T18:54:45Z"],
+                [
+                    "uid",
+                    {},
+                    "text",
+                    "10021776-1729323000-1729337400@mcceastbay.org"
+                ],
+                [
+                    "summary",
+                    {},
+                    "text",
+                    "Monthly Men's Hike | Mount Diablo State Park"
+                ],
+                [
+                    "description",
+                    {},
+                    "text",
+                    "For Brothers! Join a brotherhood that hikes through life’s ups and downs, finding strength and community in the great outdoors. Our Monthly MCC Brothers Hike caters to various fitness levels and explores East Bay’s serene landscapes. Whether you’re a seasoned hiker or just looking to start, we welcome you to share in this journey of fellowship and discovery.\n\nSaturday, October 19 | 7:30 a.m. to 11:30 a.m. | Mount Diablo State Park | No children, please (teenage boys, okay) | RSVP at mcceastbay.org/brothers-hike \nIf brothers want to walk around more, they can do it depending on their interest/time. The hike will be canceled with insufficient RSVPs, depending on the weather. \n\n– When: Saturday, October 19, 2024\n– Time:  7:30 a.m. to 11:30 a.m. – Please arrive early to park and find the group. The group can wait till 7:40 a.m. and will start the hike. Please be on time since we cannot hold the group.\n– Carpool: We highly recommend carpooling. No carpool from MCC is available for this hike. Carpool encouraged others on this hike.\n– Parking: $6\n– Meeting Point: Mitchell Canyon Parking Lot\n– Trail: Mount Diablo State Park\n– Distance: Around 7.8 miles.\n– Difficulty: Hard.\n– Misc: Pack a snack and water for yourself. Wear hiking shoes if possible. Bring a small breakfast/ Lunch sandwich or something to eat. Carry enough water, a hat, and a light jacket. Please download the All Trails map (free version) if you decide to return in the middle of the hike. This will be very helpful when navigating back to the parking lot.\n– RSVP: By Friday, October 18, please let us know you are coming for this hike: https://mcceastbay.org/brothers-hike\n\nMohammed Kadoura leads these monthly hikes for the brothers. If you have trouble finding the group on the day of the hike, please call or text Br. Mohammed at (617) 935-7347. Please remember that we cannot hold all of the group, so we request you to please be on time. \nFor future hikes, please subscribe to the MCC newsletter and add your phone number to the Men’s Hiking WhatsApp group. \nPlease wear comfortable walking/hiking shoes, carry a water bottle, a small snack, a hat, sunglasses, and hiking poles if you have any.  \nQuestions? hiking@mcceastbay.org  \nAbout this trail: \nHead out on this 7.8-mile loop trail near Clayton, California. Generally considered a challenging route, it takes an average of 4 h 5 min to complete. This is a very popular area for hiking and running, so you’ll likely encounter other people while exploring. The trail is open year-round and is beautiful to visit anytime. "
+                ],
+                [
+                    "url",
+                    {},
+                    "uri",
+                    "https://mcceastbay.org/event/monthly-mens-hike-5/"
+                ],
+                [
+                    "attach",
+                    { "fmttype": "image/jpeg" },
+                    "uri",
+                    "https://mcceastbay.org/wp-content/uploads/2024/10/Mens-Hike.jpg"
+                ]
+            ],
+            []
+        ],
+        [
+            "vevent",
+            [
+                [
+                    "dtstart",
+                    { "tzid": "America/Los_Angeles" },
+                    "date-time",
+                    "2024-10-19T08:30:00"
+                ],
+                [
+                    "dtend",
+                    { "tzid": "America/Los_Angeles" },
+                    "date-time",
+                    "2024-10-19T10:00:00"
+                ],
+                ["dtstamp", {}, "date-time", "2024-10-13T04:49:42"],
+                ["created", {}, "date-time", "2024-08-29T20:23:33Z"],
+                ["last-modified", {}, "date-time", "2024-10-02T19:06:43Z"],
+                [
+                    "uid",
+                    {},
+                    "text",
+                    "10021756-1729326600-1729332000@mcceastbay.org"
+                ],
+                [
+                    "summary",
+                    {},
+                    "text",
+                    "Women's Weekly Pilates Sessions | Seema Duhan"
+                ],
+                [
+                    "description",
+                    {},
+                    "text",
+                    "For Sisters Only: Join us for a transformative body and mind experience every Saturday and Sunday morning with a Professional Yoga and Pilates Instructor. Stretch your muscles, shape your body, and relax your mind. \nThe recommended age is 20+ for Pilates Classes. \nSat. (8:30 a.m. to 10 a.m.)  & Sun. (8 a.m. to 9:30 a.m.) | Weekly with a break in Ramadan ‘25 | Conference Room | Max 15 attendees per session | $15/session or $100/monthly | Register at mcceastbay.org/pilates \nPilates Classes\nPilates is based on six principles: breath, concentration, center, control, precision, and flow. It is designed to transform muscles and bones while strengthening the core. Regular practice of Pilates not only reshapes the musculoskeletal system but also helps regulate emotions. This class is highly beneficial for individuals over the age of 20 years. Participants will learn how to control muscle movement and maintain poses while regulating their breathing. Regular Pilates practice increases muscle endurance against daily wear and tear and enhances flexibility. Starting age is 20 years. All props will be provided except the Yoga mat and foam roller. \nMCC has a standing policy that financial need should never hold a person back from attending any activity held in the community center. To request a financial waiver, please complete our financial waiver request: HTTP://mcceastbay.org/scholarship\n\nAbout the Instructor:\nSeema Duhan represented her university in athletics at the national level in India. A health enthusiast, she began learning yoga and Pilates a few years ago and, inspired by the transformation in her own body, decided to teach Pilates and stretching to fellow Muslim sisters to promote body awareness. Seema is currently pursuing her Pilates Instructor certification. \nQuestions? events@mcceastbay.org"
+                ],
+                [
+                    "url",
+                    {},
+                    "uri",
+                    "https://mcceastbay.org/event/womens-weekly-pilates-2/2024-10-19/"
+                ],
+                ["categories", {}, "text", "Women's Activities"],
+                [
+                    "attach",
+                    { "fmttype": "image/jpeg" },
+                    "uri",
+                    "https://mcceastbay.org/wp-content/uploads/2024/08/Pilates-Classes-FINAL.jpg"
+                ]
+            ],
+            []
+        ],
+        [
+            "vevent",
+            [
+                [
+                    "dtstart",
+                    { "tzid": "America/Los_Angeles" },
+                    "date-time",
+                    "2024-10-19T11:00:00"
+                ],
+                [
+                    "dtend",
+                    { "tzid": "America/Los_Angeles" },
+                    "date-time",
+                    "2024-10-19T13:30:00"
+                ],
+                ["dtstamp", {}, "date-time", "2024-10-13T04:49:42"],
+                ["created", {}, "date-time", "2024-08-30T15:25:52Z"],
+                ["last-modified", {}, "date-time", "2024-10-07T16:18:47Z"],
+                [
+                    "uid",
+                    {},
+                    "text",
+                    "10021551-1729335600-1729344600@mcceastbay.org"
+                ],
+                [
+                    "summary",
+                    {},
+                    "text",
+                    "Know Your Rights at Work and School | CAIR-SFBA"
+                ],
+                [
+                    "description",
+                    {},
+                    "text",
+                    "Given the rise in anti-Palestinian hate and Islamophobia we have seen across Bay Area schools, CAIR-SFBA is providing a joint Know Your Rights (KYR)/Community Safety training for students and parents to discuss student rights, bullying, and free speech. \nJoin this workshop to learn practical strategies for handling identity-based harassment and discrimination, followed by a Q&A session. \n11:30 a.m. to 1:30 p.m. | Saturday, October 19 | MCC Prayer Hall | Join us in person or watch live at mcceastbay.org/live \nThe CAIR speakers are Jeffrey Wang (Senior Civil Rights Attorney) and Riyad Sood (Paralegal). \nAll who attend leave with the reassurance that they have legal protections to speak up and support our brothers and sisters in Palestine. We also aim to ensure that we provide appropriate tools for folks to feel more confident and prepared to de-escalate potential situations of hate/harassment. \n– More CAIR-MCC co-sponsored talks: https://mcceastbay.org/cair \nAbout the speakers \nJeffrey Wang is the Senior Civil Rights Attorney for the San Francisco Bay Area office of the Council on American Islamic Relations (CAIR-SFBA). In this capacity, he works with the rest of CAIR-SFBA’s civil rights team to identify, strategize, and use creative legal and grassroots advocacy solutions to address systematic issues facing the American Muslim community. \nJeffrey graduated from UC San Diego with a BA in History and minors in Political Science and Law & Society. He then earned his J.D. from Santa Clara University School of Law. During law school, Jeffrey interned at a nonprofit immigration law firm in Australia and a business immigration firm in the Bay Area. At SCU, he was active in the Katharine & George Alexander Community Law Center’s immigrant rights and consumer protection programs.\n \nRiyad Sood is a paralegal for the San Francisco Bay Area office of the Council on American-Islamic Relations (CAIR-SFBA), where he assists attorneys with immigration and civil matters. His background is in healthcare and non-profit law. \nHe has negotiated hospital reimbursement fees with healthcare plans and reviewed hospital contracts with providers subject to ERISA (Employee Retirement Income Security Act). While at the California Department of Justice Attorney General’s Office, Riyad worked alongside attorneys in civil litigation, audits, and investigations, ensuring California nonprofits conducted themselves according to state law. \nRiyad received his BSL from Irvine University College of Law and his degree in paralegal studies from Fremont College, where he was class valedictorian. \nQuestions? events@mcceastbay.org"
+                ],
+                [
+                    "url",
+                    {},
+                    "uri",
+                    "https://mcceastbay.org/event/know-your-rights-workshop/"
+                ],
+                [
+                    "location",
+                    {},
+                    "text",
+                    "MCC East Bay, 5724 W Las Positas Blvd #300, Pleasanton, CA, 94588, United States"
+                ],
+                ["categories", {}, "text", "Community"],
+                [
+                    "attach",
+                    { "fmttype": "image/jpeg" },
+                    "uri",
+                    "https://mcceastbay.org/wp-content/uploads/2024/08/Know-Your-Rights-1.jpg"
+                ],
+                [
+                    "organizer",
+                    { "cn": "CAIR - San Francisco Bay Area (CAIR SFBA)" },
+                    "cal-address",
+                    "MAILTO:aabid@cair.com"
+                ]
+            ],
+            []
+        ],
+        [
+            "vevent",
+            [
+                [
+                    "dtstart",
+                    { "tzid": "America/Los_Angeles" },
+                    "date-time",
+                    "2024-10-19T13:00:00"
+                ],
+                [
+                    "dtend",
+                    { "tzid": "America/Los_Angeles" },
+                    "date-time",
+                    "2024-10-19T15:00:00"
+                ],
+                ["dtstamp", {}, "date-time", "2024-10-13T04:49:42"],
+                ["created", {}, "date-time", "2024-10-03T16:01:16Z"],
+                ["last-modified", {}, "date-time", "2024-10-03T16:01:18Z"],
+                [
+                    "uid",
+                    {},
+                    "text",
+                    "10021554-1729342800-1729350000@mcceastbay.org"
+                ],
+                [
+                    "summary",
+                    {},
+                    "text",
+                    "Monthly Special Needs Support Circle | Zainab Khan"
+                ],
+                [
+                    "description",
+                    {},
+                    "text",
+                    "For parents, families, and caregivers of individuals with special needs, join us every third Saturday of the month for a wellness circle. We will discuss challenges, resources, and strategies for providing the best care for our families and ourselves.\n\nThese wellness circles are a safe place for special needs caregivers to connect and share experiences. It allows caregivers to share their joys and frustrations, ask questions, form friendships, and more. \nSaturday, Oct. 19 | 1 p.m. to 3 p.m. | Conference Room | In-person only | RSVP at mcceastbay.org/wellness-circle \nCo-sponsored by Muhsen, Maristan, & MCC East Bay \nRespite care will be provided. Snacks and refreshments were provided as well. \nThese special needs wellness circles are held every third Saturday of the month:\n \n\nSaturday, August 17\nSaturday, September 21\nSaturday, October 19\nSaturday, November 16\nSaturday, December 21\n\nQuestions? events@mcceastbay.org"
+                ],
+                [
+                    "url",
+                    {},
+                    "uri",
+                    "https://mcceastbay.org/event/monthly-wellness-circles-2/2024-10-19/"
+                ],
+                ["categories", {}, "text", "Family Events"],
+                [
+                    "attach",
+                    { "fmttype": "image/jpeg" },
+                    "uri",
+                    "https://mcceastbay.org/wp-content/uploads/2024/09/Wellness-Circle-1.jpg"
+                ]
+            ],
+            []
+        ],
+        [
+            "vevent",
+            [
+                [
+                    "dtstart",
+                    { "tzid": "America/Los_Angeles" },
+                    "date-time",
+                    "2024-10-19T14:00:00"
+                ],
+                [
+                    "dtend",
+                    { "tzid": "America/Los_Angeles" },
+                    "date-time",
+                    "2024-10-19T21:00:00"
+                ],
+                ["dtstamp", {}, "date-time", "2024-10-13T04:49:42"],
+                ["created", {}, "date-time", "2024-09-16T16:33:49Z"],
+                ["last-modified", {}, "date-time", "2024-09-18T18:05:14Z"],
+                [
+                    "uid",
+                    {},
+                    "text",
+                    "10021667-1729346400-1729371600@mcceastbay.org"
+                ],
+                ["summary", {}, "text", "Private Event"],
+                ["description", {}, "text", "Conference Room"],
+                [
+                    "url",
+                    {},
+                    "uri",
+                    "https://mcceastbay.org/event/private-event-76/"
+                ],
+                [
+                    "attach",
+                    { "fmttype": "image/png" },
+                    "uri",
+                    "https://mcceastbay.org/wp-content/uploads/2022/03/private-event-masjid.png"
+                ]
+            ],
+            []
+        ],
+        [
+            "vevent",
+            [
+                [
+                    "dtstart",
+                    { "tzid": "America/Los_Angeles" },
+                    "date-time",
+                    "2024-10-20T08:00:00"
+                ],
+                [
+                    "dtend",
+                    { "tzid": "America/Los_Angeles" },
+                    "date-time",
+                    "2024-10-20T09:30:00"
+                ],
+                ["dtstamp", {}, "date-time", "2024-10-13T04:49:42"],
+                ["created", {}, "date-time", "2024-08-29T20:14:42Z"],
+                ["last-modified", {}, "date-time", "2024-10-02T19:10:20Z"],
+                [
+                    "uid",
+                    {},
+                    "text",
+                    "10021762-1729411200-1729416600@mcceastbay.org"
+                ],
+                [
+                    "summary",
+                    {},
+                    "text",
+                    "Women's Weekly Pilates Sessions | Seema Duhan"
+                ],
+                [
+                    "description",
+                    {},
+                    "text",
+                    "For Sisters Only: Join us for a transformative body and mind experience every Saturday and Sunday morning with a Professional Yoga and Pilates Instructor. Stretch your muscles, shape your body, and relax your mind. \nThe recommended age is 20+ for Pilates Classes. \nSat. (8:30 a.m. to 10 a.m.)  & Sun. (8 a.m. to 9:30 a.m.) | Weekly with a break in Ramadan ‘25 | Conference Room | Max 15 attendees per session | $15/session or $100/monthly | Register at mcceastbay.org/pilates \n  \nPilates Classes\nPilates is based on six principles: breath, concentration, center, control, precision, and flow. It is designed to transform muscles and bones while strengthening the core. Regular practice of Pilates not only reshapes the musculoskeletal system but also helps regulate emotions. This class is highly beneficial for individuals over the age of 20 years. Participants will learn how to control muscle movement and maintain poses while regulating their breathing. Regular Pilates practice increases muscle endurance against daily wear and tear and enhances flexibility. Starting age is 20 years. All props will be provided except the Yoga mat and foam roller. \nMCC has a standing policy that financial need should never hold a person back from attending any activity held in the community center. To request a financial waiver, please complete our financial waiver request: HTTP://mcceastbay.org/scholarship\n\nAbout the Instructor:\nSeema Duhan represented her university in athletics at the national level in India. A health enthusiast, she began learning yoga and Pilates a few years ago and, inspired by the transformation in her own body, decided to teach Pilates and stretching to fellow Muslim sisters to promote body awareness. Seema is currently pursuing her Pilates Instructor certification. \nQuestions? events@mcceastbay.org"
+                ],
+                [
+                    "url",
+                    {},
+                    "uri",
+                    "https://mcceastbay.org/event/womens-weekly-pilates/2024-10-20/"
+                ],
+                ["categories", {}, "text", "Women's Activities"],
+                [
+                    "attach",
+                    { "fmttype": "image/jpeg" },
+                    "uri",
+                    "https://mcceastbay.org/wp-content/uploads/2024/08/Pilates-Classes-FINAL.jpg"
+                ]
+            ],
+            []
+        ],
+        [
+            "vevent",
+            [
+                [
+                    "dtstart",
+                    { "tzid": "America/Los_Angeles" },
+                    "date-time",
+                    "2024-10-21T11:00:00"
+                ],
+                [
+                    "dtend",
+                    { "tzid": "America/Los_Angeles" },
+                    "date-time",
+                    "2024-10-21T12:30:00"
+                ],
+                ["dtstamp", {}, "date-time", "2024-10-13T04:49:42"],
+                ["created", {}, "date-time", "2024-04-11T23:53:17Z"],
+                ["last-modified", {}, "date-time", "2024-07-02T18:13:56Z"],
+                [
+                    "uid",
+                    {},
+                    "text",
+                    "10020745-1729508400-1729513800@mcceastbay.org"
+                ],
+                [
+                    "summary",
+                    {},
+                    "text",
+                    "Women’s Seerah Bookclub (in-person & virtual) | Ustadha Leila Fakira"
+                ],
+                [
+                    "description",
+                    {},
+                    "text",
+                    "Join our weekly sisters’ in-person & virtual Seerah book club, where we have an active discussion, take away lessons for our daily lives, and inshaAllah fall in love with the Prophet ﷺ. We are reading from “The Prophetic Narrative” by Samira al-Zayid and will begin reading Volume 2. \n\n\n\nEvery Monday in-person & virtual | 11 a.m. to 12:30 p.m. | MCC Conference Room | Women only | RSVP for the live registration link at https://mcceastbay.org/bookclub. RSVP is needed to join us virtually. \n\n\n\nEvent Details: \n\n\n\nThe in-person & virtual discussion takes place every Monday from 11 a.m. to 12:30 p.m. with a break in Ramadan ’24. \n\n\n\nPlease register online to receive the link to the Whatsapp thread where all communication and updates will be made. In this bookclub, we will be starting volume 2 of “The Prophetic Narrative” by Samira al-Zayid. \n\n\n\nBook Purchase: \n\n\n\nIf you wish to follow along with the book, please purchase the book. The book can be purchased here: \n\n\n\n– https://daybreak.rabata.org/products/soft-cover-a-compendium-of-the-sources-on-the-prophetic-narrative \n\n\n\nQuestions? bookclub@mcceastbay.org \n\n\n\nAbout the Book \n\n\n\nInternationally acclaimed as “the most authoritative resource” on the Sīra, this two-volume translation textbook is revolutionary in bringing Prophet Muhammad ﷺ’s life to life for everyone who ventures upon it. \n\n\n\nThis multiple award-winning, comprehensive compilation of narrations and details of the life of Prophet Muhammad (S) has never before been available in English until now! Internationally acclaimed as “the most authoritative resource” on the Sīra, this two-volume translation textbook is revolutionary in bringing his (S) life to life for everyone who ventures upon it. The original volumes have won the approval and praise of numerous scholars. It is finally available as a treasured text for personal or educational development. \n\n\n\nAuthor: Samira al-Zayid \n\n\n\nTranslators: Susan Imady, Tamara Gray, & Randa Mardini \n\n\n\nBinding: Softcover \n\n\n\nPages: Vol 1, 570; Vol 2, 558 \n\n\n\nPublisher: Daybreak Press \n\n\n\nQuestions? bookclub@mcceastbay.org \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n "
+                ],
+                [
+                    "url",
+                    {},
+                    "uri",
+                    "https://mcceastbay.org/event/inperson-seerah-bookclub/2024-10-21/"
+                ],
+                ["categories", {}, "text", "Women's Activities"],
+                [
+                    "attach",
+                    { "fmttype": "image/jpeg" },
+                    "uri",
+                    "https://mcceastbay.org/wp-content/uploads/2024/06/Monday-1-1.jpg"
+                ]
+            ],
+            []
+        ],
+        [
+            "vevent",
+            [
+                [
+                    "dtstart",
+                    { "tzid": "America/Los_Angeles" },
+                    "date-time",
+                    "2024-10-23T19:00:00"
+                ],
+                [
+                    "dtend",
+                    { "tzid": "America/Los_Angeles" },
+                    "date-time",
+                    "2024-10-23T20:00:00"
+                ],
+                ["dtstamp", {}, "date-time", "2024-10-13T04:49:42"],
+                ["created", {}, "date-time", "2024-06-27T01:07:48Z"],
+                ["last-modified", {}, "date-time", "2024-06-27T01:07:48Z"],
+                [
+                    "uid",
+                    {},
+                    "text",
+                    "10021153-1729710000-1729713600@mcceastbay.org"
+                ],
+                [
+                    "summary",
+                    {},
+                    "text",
+                    "Purification of the Heart: A Call for Inner Healing | Sidi Shahryar Abbasi"
+                ],
+                [
+                    "description",
+                    {},
+                    "text",
+                    "Wednesdays, Starts May 1 | 7 p.m. to 8 p.m. | Walnut Creek Islamic Center | Join in-person or watch live at mcceastbay.org/live \n\n\n\nJoin Sidi Shahryar Abbasi every Wednesday at 7 p.m. virtually to dive into the popular text Purification of the Heart by Shaykh Hamza Yusuf, where we will have an opportunity to go over the following: \n\n\n\n\nDelve into the heart’s role in personal governance\n\n\n\nExplore traditional Tazkiya practices for spiritual purification\n\n\n\nIdentify common spiritual diseases and learn specific remedies\n\n\n\nCultivate tranquility, wisdom, and patience, mirroring Prophetic (saw) qualities\n\n\n\nDevelop emotional resilience, enhance relationships, and navigate challenges with wisdom aligning with the Sunnah\n\n\n\n\nWe will also cover Imam Al-Ghazali’s Ihya Ulum Al-Din (The Revival of the Religious Sciences), books 20-22. \n\n\n\nHosted at Walnut Creek Islamic Center. Streamed on MCC media channels. Watch past sessions at https://mcceastbay.org/healing \n\n\n\n– More Sidi Shahryar: https://mcceastbay.org/shahryar– Sidi Shahryar’s “The Soul’s Journey” Series: https://mcceastbay.org/journey– Sidi Shahryar’s “Real Talk Series”: https://mcceastbay.org/real-talk– Sidi Shahryar’s “Traits of the Righteous” Series: https://mcceastbay.org/hallmark– Sidi Shahryar’s “Controlling Your Desires” Series: https://mcceastbay.org/desires– Sidi Shahryar’s “Soul’s Journey Series: https://mcceastbay.org/journey \n\n\n\nShahryar graduated from the UC Berkeley Haas School of Business and was the External Affairs Vice President of UC Berkeley’s student government. He is an experienced speaker, mentor, and coach. Send him questions at ask.abu.taha@gmail.com and learn more about him at https://www.tiktok.com/@islamic_spirituality. Learn more about him at The Success Company: https://www.successcompany.co/about-us"
+                ],
+                [
+                    "url",
+                    {},
+                    "uri",
+                    "https://mcceastbay.org/event/purification-of-the-heart-a-call-for-inner-healing-sidi-shahryar-abbasi-2/2024-10-23/"
+                ],
+                ["categories", {}, "text", "Family Events"],
+                [
+                    "attach",
+                    { "fmttype": "image/jpeg" },
+                    "uri",
+                    "https://mcceastbay.org/wp-content/uploads/2024/06/Purification-of-the-Heart.jpeg"
+                ]
+            ],
+            []
+        ],
+        [
+            "vevent",
+            [
+                [
+                    "dtstart",
+                    { "tzid": "America/Los_Angeles" },
+                    "date-time",
+                    "2024-10-24T10:00:00"
+                ],
+                [
+                    "dtend",
+                    { "tzid": "America/Los_Angeles" },
+                    "date-time",
+                    "2024-10-24T11:00:00"
+                ],
+                ["dtstamp", {}, "date-time", "2024-10-13T04:49:42"],
+                ["created", {}, "date-time", "2024-08-21T18:32:55Z"],
+                ["last-modified", {}, "date-time", "2024-08-29T19:40:18Z"],
+                [
+                    "uid",
+                    {},
+                    "text",
+                    "10021417-1729764000-1729767600@mcceastbay.org"
+                ],
+                [
+                    "summary",
+                    {},
+                    "text",
+                    "Mommy and Me September '24 Session | MCC's Mommy & Me Program"
+                ],
+                [
+                    "description",
+                    {},
+                    "text",
+                    "In this five-week fall session, our toddlers and pre-schoolers (ages 1-5) will develop love for Islam, Allah (swt), and RasulAllah (saw) through book reading, sing-alongs, Parachute Time, activities, and more! \nThursdays, 9/5, 9/12, 9/19, 9/26, 10/3, 10/17, 10/24, 10/31, 11/7, & 11/14 | 10 a.m. to 11 a.m. | Conference Room |  $70 for five sessions, $135 for 10 sessions or $20 per session | Register at mcceastbay.org/happyhearts \nPlease note that there will be no class on 10/10. \nThese Mommy & Me sessions are designed for girls and boys ages one to four who are accompanied by a female guardian. Moms, grandmothers, and so on are welcome. This is also a great opportunity to connect with other moms and caretakers in the MCC community. \nOur Mommy and Me sessions begin with dua and a salaam/greeting song and end with the Fi-Amanillah song and kid-favorite parachute time. \nQuestions? Happy Hearts Playgroup Facilitator Sr. Khadija at mommyandme@mcceastbay.org \nMCC has a standing policy that financial need should never hold a person back from attending any activity held in the community center. To request a financial waiver, please complete our financial waiver request: HTTP://mcceastbay.org/scholarship"
+                ],
+                [
+                    "url",
+                    {},
+                    "uri",
+                    "https://mcceastbay.org/event/mommy-and-me/2024-10-24/"
+                ],
+                ["categories", {}, "text", "Young Children"],
+                [
+                    "attach",
+                    { "fmttype": "image/jpeg" },
+                    "uri",
+                    "https://mcceastbay.org/wp-content/uploads/2024/08/Happy-Little-Hearts.jpg"
+                ]
+            ],
+            []
+        ],
+        [
+            "vevent",
+            [
+                [
+                    "dtstart",
+                    { "tzid": "America/Los_Angeles" },
+                    "date-time",
+                    "2024-10-24T12:30:00"
+                ],
+                [
+                    "dtend",
+                    { "tzid": "America/Los_Angeles" },
+                    "date-time",
+                    "2024-10-24T13:15:00"
+                ],
+                ["dtstamp", {}, "date-time", "2024-10-13T04:49:42"],
+                ["created", {}, "date-time", "2024-07-31T18:54:34Z"],
+                ["last-modified", {}, "date-time", "2024-08-13T17:54:51Z"],
+                [
+                    "uid",
+                    {},
+                    "text",
+                    "10021348-1729773000-1729775700@mcceastbay.org"
+                ],
+                [
+                    "summary",
+                    {},
+                    "text",
+                    "Principles of Religion: Manners III | Ustadha Nihad Hemmoudeh"
+                ],
+                [
+                    "description",
+                    {},
+                    "text",
+                    "Ustadha Nihad Hemmoudeh facilitates a 45-minute live Zoom session for sisters on the principles of religion, such as acts of worshipping Allah (swt), the good character of a Muslim, and more. These talks will be recorded and made publicly available on MCC’s YouTube, Facebook, and Instagram. \n\n\n\nUstadha Nihad is using the book, “The Forty in the Fundamentals of Religion” by Al-Ghazali. This is part three of the  “Principles of Religion” series, which will focus on praiseworthy characteristics. \n12:30 p.m. to 1:15 p.m. PST | Thursdays | 12 consecutive weeks from Aug. 15 to Oct. 31, 2024 | No pre-registration needed | Join live each week at 12:30 p.m. on Zoom at mcceastbay.org/principles \n\n\n\nWatch the prior sessions in this series: HTTP://mcceastbay.org/principle-series More Ustadha Nihad: \n\n\n\n\n– Ustadha Nihad’s “Principles of Religion” series: https://mcceastbay.org/principle-series\n\n\n\n– Ustadha Nihad’s “Women Around the Messenger” series: HTTP://mcceastbay.org/women-series\n\n\n\n– Ustadha Nihad’s “Forty Hadith Qudsi” series: https://mcceastbay.org/qudsi\n\n\n\n– Ustadha’s Nihad’s “Pearls of Islam: The Wives of Prophet Muhammad (PBUH)” series: https://mcceastbay.org/pearls-series\n\n\n\n– Ustadha Nihad’s Surah al-Kahf series: https://mcceastbay.org/kahf\n\n\n\n– Ustadha Nihad’s Juz Amma series: https://mcceastbay.org/quran-tafseer\n\n\n\n– Hafidha Nihad’s Sahaba (Companions) Series Sessions: https://mcceastbay.org/companions-series\n\n\n\n– Ust. Nohad’s Al-Nawawi Hadith Series: https://mcceastbay.org/nawawi\n\n\n\n– More Ustadha Nihad: https://mcceastbay.org/nihad\n\n\n\n\nQuestions? events@mcceastbay.org"
+                ],
+                [
+                    "url",
+                    {},
+                    "uri",
+                    "https://mcceastbay.org/event/principles-of-religion-3/2024-10-24/"
+                ],
+                [
+                    "categories",
+                    {},
+                    "text",
+                    "Sisters Program",
+                    "Women's Activities"
+                ],
+                [
+                    "attach",
+                    { "fmttype": "image/jpeg" },
+                    "uri",
+                    "https://mcceastbay.org/wp-content/uploads/2024/07/Principles-of-Religion-Part-3-1.jpg"
+                ],
+                ["location", {}, "text", ""]
+            ],
+            []
+        ],
+        [
+            "vevent",
+            [
+                [
+                    "dtstart",
+                    { "tzid": "America/Los_Angeles" },
+                    "date-time",
+                    "2024-10-25T13:30:00"
+                ],
+                [
+                    "dtend",
+                    { "tzid": "America/Los_Angeles" },
+                    "date-time",
+                    "2024-10-25T16:00:00"
+                ],
+                ["dtstamp", {}, "date-time", "2024-10-13T04:49:42"],
+                ["created", {}, "date-time", "2024-09-24T19:25:46Z"],
+                ["last-modified", {}, "date-time", "2024-09-24T19:25:46Z"],
+                [
+                    "uid",
+                    {},
+                    "text",
+                    "10021683-1729863000-1729872000@mcceastbay.org"
+                ],
+                [
+                    "summary",
+                    {},
+                    "text",
+                    "Family Violence Law Center (Alameda) Tables @ MCC Jumu'ahs"
+                ],
+                [
+                    "description",
+                    {},
+                    "text",
+                    "Founded in 1978, the Family Violence Law Center (FVLC) helps diverse communities in Alameda County heal from domestic violence and sexual assault, advocating for justice and healthy relationships.  They provide survivor-centered legal and crisis intervention services, offer prevention education for youth and other community members, and engage in policy work to create systemic change."
+                ],
+                [
+                    "url",
+                    {},
+                    "uri",
+                    "https://mcceastbay.org/event/family-violence-law-center-alameda-tables-mcc-jumuahs/"
+                ],
+                [
+                    "attach",
+                    { "fmttype": "image/jpeg" },
+                    "uri",
+                    "https://mcceastbay.org/wp-content/uploads/2024/09/FVLC.jpg"
+                ]
+            ],
+            []
+        ],
+        [
+            "vevent",
+            [
+                [
+                    "dtstart",
+                    { "tzid": "America/Los_Angeles" },
+                    "date-time",
+                    "2024-10-25T18:00:00"
+                ],
+                [
+                    "dtend",
+                    { "tzid": "America/Los_Angeles" },
+                    "date-time",
+                    "2024-10-25T22:00:00"
+                ],
+                ["dtstamp", {}, "date-time", "2024-10-13T04:49:42"],
+                ["created", {}, "date-time", "2024-05-29T06:18:22Z"],
+                ["last-modified", {}, "date-time", "2024-10-08T19:21:36Z"],
+                [
+                    "uid",
+                    {},
+                    "text",
+                    "10021094-1729879200-1729893600@mcceastbay.org"
+                ],
+                [
+                    "summary",
+                    {},
+                    "text",
+                    "A Tour of Tales: From the Dream to the Throne"
+                ],
+                [
+                    "description",
+                    {},
+                    "text",
+                    "Join Mufti Abdul Wahab Waheed as he presents an emotional analysis of the life of Prophet Yusuf (AS) as he drifts through chapters in his life marked with greed, lies, and betrayal. \nThe story of Prophet Yusuf (AS) is presented in the Qur’an as an exemplary model of endurance through difficulties, acceptance of Divine decree, and perseverance in the way of Allah (SWT). \nSurah Yusuf teaches us that the resolve of Dunya is pain, and the essence of faith is the belief that our agony serves a purpose and that we will ultimately reap its benefits in the Akhira. \nFriday, Oct. 25 | 6 p.m. to 10 p.m. | MCC Prayer Hall | $10/person ($15 after Oct. 19) | Register at mcceastbay.org/yusuf \nThis workshop is sponsored by Miftaah Institute & MCC East Bay. \nEarly bird registration ends Oct. 19. After Oct. 19, tickets will be $15. \nDo you offer babysitting? \nYes, for children ages 2-9 years old. Please see the registration page at HTTP://mcceastbay.org/yusuf \nAre there food options? \nYes, we will have food trucks in the MCC parking lot for attendees to grab dinner on Saturday. Details coming soon! \nAre there vendor opportunities? \nWe cannot accommodate vendors due to the number of expected attendees and the program’s format. \nIs there a live stream option? \nWe strongly encourage our community to attend in person. If you are unable to make it in person, please register for our live stream option at $10/viewer. \nWho is the retreat speaker? \nMufti Abdul Wahab Waheed was born and raised in Ann Arbor, MI. He began Islamic studies at Jaamiah al-Uloom al-Islamiyyah in Canada, where he became a Hafiz at 11. He started his 7-year Shariah program in Toronto, Canada, and went even further to pursue higher education in Hadith in Karachi, Pakistan. Throughout his travels, Mufti Abdul Wahab addresses communities across the United States on a wide range of Islamic topics and, InshAllah, continues to do so with the Tawfiq of Allah SWT. Mufti Abdul Wahab is a co-founder and director at Miftaah Institute and Michigan Islamic Institute. \nQuestions? events@mcceastbay.org"
+                ],
+                ["url", {}, "uri", "https://mcceastbay.org/event/dream/"],
+                [
+                    "location",
+                    {},
+                    "text",
+                    "MCC East Bay, 5724 W Las Positas Blvd #300, Pleasanton, CA, 94588, United States"
+                ],
+                [
+                    "categories",
+                    {},
+                    "text",
+                    "Family Events",
+                    "Lectures & Workshops"
+                ],
+                [
+                    "attach",
+                    { "fmttype": "image/jpeg" },
+                    "uri",
+                    "https://mcceastbay.org/wp-content/uploads/2024/05/Tour-of-Tales.jpeg"
+                ],
+                [
+                    "organizer",
+                    { "cn": "Miftaah Institute" },
+                    "cal-address",
+                    "MAILTO:admin@miftaah.org"
+                ]
+            ],
+            []
+        ],
+        [
+            "vevent",
+            [
+                [
+                    "dtstart",
+                    { "tzid": "America/Los_Angeles" },
+                    "date-time",
+                    "2024-10-25T19:00:00"
+                ],
+                [
+                    "dtend",
+                    { "tzid": "America/Los_Angeles" },
+                    "date-time",
+                    "2024-10-25T21:00:00"
+                ],
+                ["dtstamp", {}, "date-time", "2024-10-13T04:49:42"],
+                ["created", {}, "date-time", "2024-08-12T20:20:16Z"],
+                ["last-modified", {}, "date-time", "2024-10-01T22:06:30Z"],
+                [
+                    "uid",
+                    {},
+                    "text",
+                    "10021374-1729882800-1729890000@mcceastbay.org"
+                ],
+                [
+                    "summary",
+                    {},
+                    "text",
+                    "Dr. Rania Awaad’s Weekly Friday Evening Halaqa"
+                ],
+                [
+                    "description",
+                    {},
+                    "text",
+                    "Ustadha Dr. Rania Awaad holds a weekly women’s gathering on Friday evenings to discuss navigating contemporary issues. This program runs in parallel to the Friday night girl’s halaqa. \n\n\n\n7 p.m. to 9 p.m. | Every Friday from September 20, 2024, to February 21, 2025, |  MCC Conference Room | Free; no registration or RSVP required to attend in person | To join virtually, register at https://mcceastbay.org/zoom \n\n\n\n\n\n\n– More Dr. Rania: https://mcceastbay.org/rania\n\n\n\n\n\n\n\n\n\n– Watch past Dr. Rania’s Friday Evening Halaqa recordings: https://mcceastbay.org/womens-halaqa\n\n\n\n\n\n\n\n\n\n– Join Dr. Rania’s WhatsUp group: https://chat.whatsapp.com/HlHmFFnGbwvCvLl6uGD1C4\n– Holiday Calendar: https://mcceastbay.org/rahmah-calendar\n\n\n\n\n\n\nThe Fall session runs from Friday, Sept. 20, 2024, to May 23, 2025, with no halaqas on Friday, November 29, December 27, March 7, 14, 21, 28, and April 4), and we restart from April 11, 2025 to May 23, 2025. See calendar. \n\n\n\nFree weekly babysitting is provided in Room 23. Facility map: https://mcceastbay.org/facility-map \n\n\n\nQuestions? events@mcceastbay.org \n\n\n\nThis halaqa is hosted parallel to our girls’ program in partnership with The Rahmah Foundation. \n\n\n\nUstadha Rania Awaad was raised in the U.S. and began her formal study of the traditional Islamic sciences when her parents permitted her to travel to Damascus, Syria, at 14. Her desire to continue studying the Deen resulted in multiple trips back to Damascus, interspersed between her high school, college, and medical studies. She was honored to receive Ijazah (authorization to teach) several branches of the Shari’ah sciences at the hands of many renowned scholars, including many female scholars. She has received Ijazah to teach Tajwid in the Hafs and Warsh recitations from the late eminent Syrian scholar Shaykh Abu Hassan al-Kurdi. In addition to completing several advanced texts of the Shafi’i madhhab, she is licensed to teach texts of Maliki fiqh, Adab, and Ihsan. Currently, Ustadha Rania teaches online and local classes for The Rahmah Foundation, Rabata. She is on the faculty of Zaytuna College, where she teaches courses in Shafi’i fiqh and women’s issues in fiqh and has helped develop and co-direct the Tajweed and Hifz program. \n\n\n\nUstadha Rania is also a medical doctor with a specialty in Psychiatry. She completed her Psychiatric residency and fellowship training at Stanford University, where she is currently on the faculty as a Clinical Instructor in the Stanford Psychiatry and Behavioral Sciences department. Her medical interests include addressing mental health care concerns in the Muslim community- particularly that of Muslim women and girls. She has been awarded grants from the NIMH (National Institute of Mental Health) to research this topic and has presented her findings at several medical conferences. Other ongoing endeavors include compiling manuscripts addressing female-related mental health and medical issues from a fiqh-oriented perspective. She is the Director of the Rahmah Foundation, a non-profit organization that teaches traditional Islamic knowledge to Muslim women and girls. In this capacity, she also heads the Murbbiyah Mentoring Program, which trains young women to teach and mentor Muslim girls and teens. Ustadha Rania is both a wife and a mother; she has been counseling and teaching women classes on Tajwid, Shafi’i Fiqh, Ihsan, marriage, and raising children since 1999. \n\n\n\nLearn more about Dr. Rania and her work at http://med.stanford.edu/psychiatry/research/MuslimMHLab.html \n\n\n\nEvery Friday evening, the MCC bustles with activity. MCC hosts four halaqas to increase God-consciousness for youth, women, and men. \n\n\n\nJoin Dr. Rania Awaad‘s women’s gathering on navigating contemporary issues from 7 p.m. to 9 p.m. This wide-ranging Muslimah halaqa is in the MCC Conference Room, and the first hour is live-streamed here (watch past sessions at https://mcceastbay.org/halaqa). This halaqa is organized in partnership with The Rahmah Foundation. \nQuestions? events@mcceastbay.org"
+                ],
+                [
+                    "url",
+                    {},
+                    "uri",
+                    "https://mcceastbay.org/event/weekly-halaqa/2024-10-25/"
+                ],
+                [
+                    "location",
+                    {},
+                    "text",
+                    "MCC East Bay, 5724 W Las Positas Blvd #300, Pleasanton, CA, 94588, United States"
+                ],
+                ["categories", {}, "text", "Sisters Program"],
+                [
+                    "attach",
+                    { "fmttype": "image/png" },
+                    "uri",
+                    "https://mcceastbay.org/wp-content/uploads/2024/06/Dr.-Rania-Awaads-Weekly-Friday-Evening-Halaqa.png"
+                ],
+                [
+                    "organizer",
+                    { "cn": "The Rahmah Foundation" },
+                    "cal-address",
+                    "MAILTO:mailbox@therahmahfoundation.org"
+                ]
+            ],
+            []
+        ],
+        [
+            "vevent",
+            [
+                [
+                    "dtstart",
+                    { "tzid": "America/Los_Angeles" },
+                    "date-time",
+                    "2024-10-25T19:00:00"
+                ],
+                [
+                    "dtend",
+                    { "tzid": "America/Los_Angeles" },
+                    "date-time",
+                    "2024-10-25T21:00:00"
+                ],
+                ["dtstamp", {}, "date-time", "2024-10-13T04:49:42"],
+                ["created", {}, "date-time", "2024-09-30T21:36:18Z"],
+                ["last-modified", {}, "date-time", "2024-09-30T21:38:03Z"],
+                [
+                    "uid",
+                    {},
+                    "text",
+                    "10021694-1729882800-1729890000@mcceastbay.org"
+                ],
+                [
+                    "summary",
+                    {},
+                    "text",
+                    "Middle School Boys Halaqa & Hangout | Sidi Zeeshan Mukhtar & Sr. Fouzia Alam"
+                ],
+                [
+                    "description",
+                    {},
+                    "text",
+                    "For middle school boys aged 8-13: Join us over three Fridays in October for a Halaqa and hang-out session to help them make connections and bonds, form a brotherhood, and navigate school and social challenges as they grow into young men. \nThese sessions aim to craft our next generation of confident, faithful Muslim men. These Halaqas are for only ages 8-13—no younger boys. The sessions are capped at 30 teens. Once limited spots are full, please join the waitlist. \nPizza is included each week. \n7 p.m. to 9 p.m. | Fridays | 10/11, 10/18 & 10/25 | MCC Banquet Hall | $10/week | Register at mcceastbay.org/boys-hangout \nThe MCC has a standing policy that financial need should never hold a family in the East Bay from benefiting from any offering at the MCC facility. To request a financial waiver, please complete the application at mcceastbay.org/scholarship \nOur partner SRVIC also hosts a middle school boy’s halaqa in October on Oct 4 and October 11 with Sidi Hasseb Sadat: https://srvic.org/event/boys-pre-teen-halaqa-with-haseeb-sadat/ \nAbout the halaqa facilitators \nAzmat Zeeshan Mukhtar is a local father and mentor from our community who enjoys sports and kids. He will organize the activities and bring on some other dads to help volunteer and make this a rewarding activity for our young Muslim boys. Brother Zeeshan Mukhtar has previously led similar sessions at his son’s school, and in the past, he coached flag football for boys at MCC. \nSister Fouzia Alam, a mother of three boys, is collaborating to launch the Boys’ Halaqa. She has extensive experience and organized numerous Bay Area enrichment programs."
+                ],
+                [
+                    "url",
+                    {},
+                    "uri",
+                    "https://mcceastbay.org/event/halaqa-and-hangout/2024-10-25/"
+                ],
+                ["categories", {}, "text", "Youth Program"],
+                [
+                    "attach",
+                    { "fmttype": "image/jpeg" },
+                    "uri",
+                    "https://mcceastbay.org/wp-content/uploads/2024/09/Friday-Night-Boys-Halaqa-1.jpg"
+                ]
+            ],
+            []
+        ],
+        [
+            "vevent",
+            [
+                [
+                    "dtstart",
+                    { "tzid": "America/Los_Angeles" },
+                    "date-time",
+                    "2024-10-26T08:00:00"
+                ],
+                [
+                    "dtend",
+                    { "tzid": "America/Los_Angeles" },
+                    "date-time",
+                    "2024-10-26T17:00:00"
+                ],
+                ["dtstamp", {}, "date-time", "2024-10-13T04:49:42"],
+                ["created", {}, "date-time", "2024-10-01T23:41:47Z"],
+                ["last-modified", {}, "date-time", "2024-10-01T23:50:21Z"],
+                [
+                    "uid",
+                    {},
+                    "text",
+                    "10021750-1729929600-1729962000@mcceastbay.org"
+                ],
+                ["summary", {}, "text", "Young Men Manliness Conference"],
+                ["description", {}, "text", "More details forthcoming!"],
+                [
+                    "url",
+                    {},
+                    "uri",
+                    "https://mcceastbay.org/event/young-men-manliness-conference/"
+                ],
+                [
+                    "attach",
+                    { "fmttype": "image/webp" },
+                    "uri",
+                    "https://mcceastbay.org/wp-content/uploads/2024/10/e-book-mockup-template-over-a-white-background-a9912-5copy_1080x.webp"
+                ]
+            ],
+            []
+        ],
+        [
+            "vevent",
+            [
+                [
+                    "dtstart",
+                    { "tzid": "America/Los_Angeles" },
+                    "date-time",
+                    "2024-10-26T08:30:00"
+                ],
+                [
+                    "dtend",
+                    { "tzid": "America/Los_Angeles" },
+                    "date-time",
+                    "2024-10-26T10:00:00"
+                ],
+                ["dtstamp", {}, "date-time", "2024-10-13T04:49:42"],
+                ["created", {}, "date-time", "2024-08-29T20:23:33Z"],
+                ["last-modified", {}, "date-time", "2024-10-02T19:06:43Z"],
+                [
+                    "uid",
+                    {},
+                    "text",
+                    "10021757-1729931400-1729936800@mcceastbay.org"
+                ],
+                [
+                    "summary",
+                    {},
+                    "text",
+                    "Women's Weekly Pilates Sessions | Seema Duhan"
+                ],
+                [
+                    "description",
+                    {},
+                    "text",
+                    "For Sisters Only: Join us for a transformative body and mind experience every Saturday and Sunday morning with a Professional Yoga and Pilates Instructor. Stretch your muscles, shape your body, and relax your mind. \nThe recommended age is 20+ for Pilates Classes. \nSat. (8:30 a.m. to 10 a.m.)  & Sun. (8 a.m. to 9:30 a.m.) | Weekly with a break in Ramadan ‘25 | Conference Room | Max 15 attendees per session | $15/session or $100/monthly | Register at mcceastbay.org/pilates \nPilates Classes\nPilates is based on six principles: breath, concentration, center, control, precision, and flow. It is designed to transform muscles and bones while strengthening the core. Regular practice of Pilates not only reshapes the musculoskeletal system but also helps regulate emotions. This class is highly beneficial for individuals over the age of 20 years. Participants will learn how to control muscle movement and maintain poses while regulating their breathing. Regular Pilates practice increases muscle endurance against daily wear and tear and enhances flexibility. Starting age is 20 years. All props will be provided except the Yoga mat and foam roller. \nMCC has a standing policy that financial need should never hold a person back from attending any activity held in the community center. To request a financial waiver, please complete our financial waiver request: HTTP://mcceastbay.org/scholarship\n\nAbout the Instructor:\nSeema Duhan represented her university in athletics at the national level in India. A health enthusiast, she began learning yoga and Pilates a few years ago and, inspired by the transformation in her own body, decided to teach Pilates and stretching to fellow Muslim sisters to promote body awareness. Seema is currently pursuing her Pilates Instructor certification. \nQuestions? events@mcceastbay.org"
+                ],
+                [
+                    "url",
+                    {},
+                    "uri",
+                    "https://mcceastbay.org/event/womens-weekly-pilates-2/2024-10-26/"
+                ],
+                ["categories", {}, "text", "Women's Activities"],
+                [
+                    "attach",
+                    { "fmttype": "image/jpeg" },
+                    "uri",
+                    "https://mcceastbay.org/wp-content/uploads/2024/08/Pilates-Classes-FINAL.jpg"
+                ]
+            ],
+            []
+        ],
+        [
+            "vevent",
+            [
+                [
+                    "dtstart",
+                    { "tzid": "America/Los_Angeles" },
+                    "date-time",
+                    "2024-10-27T08:00:00"
+                ],
+                [
+                    "dtend",
+                    { "tzid": "America/Los_Angeles" },
+                    "date-time",
+                    "2024-10-27T09:30:00"
+                ],
+                ["dtstamp", {}, "date-time", "2024-10-13T04:49:42"],
+                ["created", {}, "date-time", "2024-08-29T20:14:42Z"],
+                ["last-modified", {}, "date-time", "2024-10-02T19:10:20Z"],
+                [
+                    "uid",
+                    {},
+                    "text",
+                    "10021763-1730016000-1730021400@mcceastbay.org"
+                ],
+                [
+                    "summary",
+                    {},
+                    "text",
+                    "Women's Weekly Pilates Sessions | Seema Duhan"
+                ],
+                [
+                    "description",
+                    {},
+                    "text",
+                    "For Sisters Only: Join us for a transformative body and mind experience every Saturday and Sunday morning with a Professional Yoga and Pilates Instructor. Stretch your muscles, shape your body, and relax your mind. \nThe recommended age is 20+ for Pilates Classes. \nSat. (8:30 a.m. to 10 a.m.)  & Sun. (8 a.m. to 9:30 a.m.) | Weekly with a break in Ramadan ‘25 | Conference Room | Max 15 attendees per session | $15/session or $100/monthly | Register at mcceastbay.org/pilates \n  \nPilates Classes\nPilates is based on six principles: breath, concentration, center, control, precision, and flow. It is designed to transform muscles and bones while strengthening the core. Regular practice of Pilates not only reshapes the musculoskeletal system but also helps regulate emotions. This class is highly beneficial for individuals over the age of 20 years. Participants will learn how to control muscle movement and maintain poses while regulating their breathing. Regular Pilates practice increases muscle endurance against daily wear and tear and enhances flexibility. Starting age is 20 years. All props will be provided except the Yoga mat and foam roller. \nMCC has a standing policy that financial need should never hold a person back from attending any activity held in the community center. To request a financial waiver, please complete our financial waiver request: HTTP://mcceastbay.org/scholarship\n\nAbout the Instructor:\nSeema Duhan represented her university in athletics at the national level in India. A health enthusiast, she began learning yoga and Pilates a few years ago and, inspired by the transformation in her own body, decided to teach Pilates and stretching to fellow Muslim sisters to promote body awareness. Seema is currently pursuing her Pilates Instructor certification. \nQuestions? events@mcceastbay.org"
+                ],
+                [
+                    "url",
+                    {},
+                    "uri",
+                    "https://mcceastbay.org/event/womens-weekly-pilates/2024-10-27/"
+                ],
+                ["categories", {}, "text", "Women's Activities"],
+                [
+                    "attach",
+                    { "fmttype": "image/jpeg" },
+                    "uri",
+                    "https://mcceastbay.org/wp-content/uploads/2024/08/Pilates-Classes-FINAL.jpg"
+                ]
+            ],
+            []
+        ],
+        [
+            "vevent",
+            [
+                [
+                    "dtstart",
+                    { "tzid": "America/Los_Angeles" },
+                    "date-time",
+                    "2024-10-27T16:00:00"
+                ],
+                [
+                    "dtend",
+                    { "tzid": "America/Los_Angeles" },
+                    "date-time",
+                    "2024-10-27T18:00:00"
+                ],
+                ["dtstamp", {}, "date-time", "2024-10-13T04:49:42"],
+                ["created", {}, "date-time", "2024-10-03T23:00:32Z"],
+                ["last-modified", {}, "date-time", "2024-10-03T23:00:44Z"],
+                [
+                    "uid",
+                    {},
+                    "text",
+                    "10021770-1730044800-1730052000@mcceastbay.org"
+                ],
+                [
+                    "summary",
+                    {},
+                    "text",
+                    "Mayoral/City Council Candidate Forum (Dublin & Pleasanton)"
+                ],
+                ["description", {}, "text", "More details are forthcoming!"],
+                [
+                    "url",
+                    {},
+                    "uri",
+                    "https://mcceastbay.org/event/candidate-forum/"
+                ],
+                [
+                    "location",
+                    {},
+                    "text",
+                    "MCC East Bay, 5724 W Las Positas Blvd #300, Pleasanton, CA, 94588, United States"
+                ],
+                [
+                    "attach",
+                    { "fmttype": "image/jpeg" },
+                    "uri",
+                    "https://mcceastbay.org/wp-content/uploads/2024/10/candidate-fourm-for-mayoral-and-city-council-mosque-masjid.jpg"
+                ],
+                [
+                    "organizer",
+                    { "cn": "CAIR - San Francisco Bay Area (CAIR SFBA)" },
+                    "cal-address",
+                    "MAILTO:aabid@cair.com"
+                ]
+            ],
+            []
+        ]
+    ]
+]
