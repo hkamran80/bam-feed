@@ -48,7 +48,14 @@ const main = async () => {
         description: event1.description,
         startDate: event1.startDate.toJSDate(),
         endDate: event1.endDate.toJSDate(),
-        location: [],
+        location: [
+
+        ],
+        tags: [
+            event1.component.getFirstSubcomponent("categories")?.toString() ?? ""
+        ],
+        images: [],
+        url: event1.component.getFirstSubcomponent("uri")?.toString() ?? ""
     };
 
     console.log(output);
