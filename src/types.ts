@@ -22,11 +22,24 @@ export type AppFeed = {
     id: string;
     sourceId: string;
     title: string;
+
+    /** The description should support Markdown or a **very** limited form of HTML. */
     description: string;
     startDate: Date;
     endDate: Date;
+    pricing?: string;
+    capacity?: string;
     location: {
+        // TODO: Find better type names
         type: "in-person" | "virtual";
-        place: string;
+        address: string;
     }[];
-}
+
+    /** Tags may be pulled from the calendar entry, manually input, or automatically assigned */
+    tags: string[];
+    images: string[];
+    url: string;
+
+    /** A call-to-action (CTA) may be specified to provide a button to the user which will redirect them to a URL */
+    cta?: string;
+};

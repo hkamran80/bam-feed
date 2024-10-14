@@ -39,7 +39,7 @@ const main = async () => {
     console.log("===");
     console.log(event1.description);
 
-    console.log("***===***")
+    console.log("***===***");
 
     const output: AppFeed = {
         id: event1.uid,
@@ -48,8 +48,8 @@ const main = async () => {
         description: event1.description,
         startDate: event1.startDate.toJSDate(),
         endDate: event1.endDate.toJSDate(),
-        location: []
-    }
+        location: [],
+    };
 
     console.log(output);
 
