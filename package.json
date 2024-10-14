@@ -14,7 +14,6 @@
         "start": "rimraf ./dist && tsc && cd dist && node --experimental-loader=extensionless index.js",
         "start:test": "rimraf ./dist && tsc && cd dist && node --experimental-loader=extensionless test.js",
         "start:nobuild": "cd dist && node --experimental-loader=extensionless index.js",
-        "start:docker": "cd /app/dist && node --experimental-loader=extensionless index.js"
     },
     "author": {
         "name": "H. Kamran",
