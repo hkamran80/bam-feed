@@ -1,0 +1,2 @@
+- Feed could be delivered in a small format like Cap'n Proto, Protobufs, Flatbuffers, or MessagePack
+- No matter what, compress before upload
