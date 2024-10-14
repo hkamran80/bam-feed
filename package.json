@@ -11,9 +11,9 @@
         "lint:ts": "tsc --noEmit -p .",
         "format": "prettier . --write",
         "build": "rimraf ./dist && tsc",
-        "start": "rimraf ./dist && tsc && cd dist && node --experimental-loader=extensionless index.js",
-        "start:test": "rimraf ./dist && tsc && cd dist && node --experimental-loader=extensionless test.js",
-        "start:nobuild": "cd dist && node --experimental-loader=extensionless index.js",
+        "start": "rimraf ./dist && tsc && cd dist && node --import=extensionless/register index.js",
+        "start:test": "rimraf ./dist && tsc && cd dist && node --import=extensionless/register test.js",
+        "start:nobuild": "cd dist && node --import=extensionless/register index.js"
     },
     "author": {
         "name": "H. Kamran",
